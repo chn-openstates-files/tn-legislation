@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tn-114-hb1996"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -24,25 +28,103 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Intro., P1C.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Sponsor change.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) withdrawn.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Assigned to s/c Health Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "P2C, ref. to Health Committee - Judiciary Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Johnson",
+      "name": "Shaw",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Johnson\"}",
+      "person_id": "~{\"name\": \"Shaw\"}",
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "SB 2571",
+      "legislative_session": "114",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1996.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB1996.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -66,6 +148,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:55Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1890",
-  "title": "Local Education Agencies - As introduced, requires LEAs and public charter schools to provide age- and grade-appropriate instruction to students on the history of communism. - Amends TCA Title 49.",
+  "title": "Local Education Agencies - As enacted, requires, beginning with the next adoption of academic standards in the subject of social studies, the standards recommendation committee to include in their final recommendations of academic standards in the subject of social studies to the state board of education, and the state board, to adopt, grade-appropriate academic standards on the history of communism. - Amends TCA Title 49.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1805"
+      "identifier": "ocd-bill-tn-114-sb1890"
     }
   ],
   "actions": [
@@ -40,6 +40,220 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Passed on Second Consideration, refer to Senate Education Committee",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Education Committee calendar for 2/25/2026",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 9, Nays 0 PNV 0",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 3/2/2026",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Engrossed; ready for transmission to House",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Passed Senate as amended, Ayes 28, Nays 1, PNV 3",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Senate adopted Amendment (Amendment 1 - SA0540)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Rcvd. from S., held on H. desk.",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Passed H., Ayes 72, Nays 18, PNV 1",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Am. withdrawn. (Amendment 1 - HA0559)",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Subst. for comp. HB.",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Enrolled and ready for signatures",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for action.",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 04/14/2026",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 708",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,7 +278,40 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1890.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1890.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0540",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0540.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0559",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0559.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0897",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0897.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -72,7 +319,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB1805.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0540 (13035)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1514.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -88,6 +358,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:52Z"
   }
 }

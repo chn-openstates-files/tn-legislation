@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tn-114-hjr812"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -24,6 +28,148 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
+      }
+    },
+    {
+      "description": "Intro., placed on H. consent cal. for 2/4/2026",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Engrossed; ready for transmission to Sen.",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Adopted,  Ayes 70, Nays 18, PNV 1",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Received from House, refer to Senate Calendar Committee",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Consent Calendar  for 2/9/2026",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Concurred, Ayes 32, Nays 0",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Enrolled; ready for sig. of H. Speaker.",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for his action.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
       }
     }
   ],
@@ -43,7 +189,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HJR0812.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HJR0812.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -67,6 +213,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:56Z"
   }
 }

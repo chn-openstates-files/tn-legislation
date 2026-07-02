@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1501",
-  "title": "Sunset Laws - As introduced, extends the board of dispensing opticians to June 30, 2031. - Amends TCA Title 4, Chapter 29 and Title 63, Chapter 14.",
+  "title": "Sunset Laws - As enacted, extends the board of dispensing opticians to June 30, 2031. - Amends TCA Title 4, Chapter 29 and Title 63, Chapter 14.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1560"
+      "identifier": "ocd-bill-tn-114-sb1501"
     }
   ],
   "actions": [
@@ -82,6 +82,144 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Engrossed; ready for transmission to House",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Passed Senate, Ayes 33, Nays 0",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Rcvd. from S., held on H. desk.",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Passed H., Ayes 94, Nays 0, PNV 0",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Subst. for comp. HB.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Enrolled and ready for signatures",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for action.",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 04/01/2026",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 637",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -106,7 +244,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1501.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1501.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -119,7 +257,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1501.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1501.pdf",
           "media_type": ""
         }
       ],
@@ -142,6 +280,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:59Z"
   }
 }

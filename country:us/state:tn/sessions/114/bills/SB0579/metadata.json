@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0579",
-  "title": "Employees, Employers - As introduced, allows for eligible employees to be absent 12 weeks from work following a living organ donation surgery; prohibits insurers from denying coverage or varying any term or condition of a life insurance policy, disability insurance policy, or long-term care insurance policy based solely on the person's status as a living organ donor; requires the department of health to create living organ donor informational material and make such material available on the department's website.  - Amends TCA Title 4; Title 8; Title 50; Title 56 and Title 68.",
+  "title": "Employees, Employers - As enacted, allows for eligible employees to be absent 4 weeks from work following a living organ donation surgery; requires the department of health to create living organ donor informational material and make such material available on the department's website. - Amends TCA Title 4; Title 8; Title 50; Title 56 and Title 68.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0427"
+      "identifier": "ocd-bill-tn-114-sb579"
     }
   ],
   "actions": [
@@ -115,6 +115,262 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:53Z"
       }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 3/3/2026",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Commerce and Labor Committee to 3/10/2026",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 3/10/2026",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 9, Nays 0 PNV 0",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 3/19/2026",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Engrossed; ready for transmission to House",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Passed Senate as amended, Ayes 32, Nays 0",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Amendment withdrawn. (Amendment 1 - SA0241)",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Senate adopted Amendment (Amendment 2 - SA0655)",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Rcvd. from S., held on H. desk.",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Enrolled and ready for signatures",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Passed H., Ayes 90, Nays 0, PNV 5",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Am. withdrawn. (Amendment 2 - HA0608)",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Am. withdrawn. (Amendment 1 - HA0607)",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Subst. for comp. HB.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for action.",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 04/23/2026",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 779",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -139,7 +395,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0579.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0579.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -150,7 +406,40 @@
       "note": "Amendment SA0241",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0241.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0241.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0655",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0655.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0607",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0607.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0608",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0608.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -163,7 +452,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0427.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0427.pdf",
           "media_type": ""
         }
       ],
@@ -174,11 +463,29 @@
       "note": "Fiscal Memo for SA0241 (6197)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0957.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1079.pdf",
           "media_type": ""
-        },
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0655 (14849)",
+      "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1079.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2374.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0608 (12136)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1820.pdf",
           "media_type": ""
         }
       ],
@@ -189,7 +496,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0579&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0579&ga=114",
       "note": ""
     }
   ],
@@ -201,6 +508,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:53Z"
+    "logs_latest_update": "2026-07-02T13:42:55Z"
   }
 }

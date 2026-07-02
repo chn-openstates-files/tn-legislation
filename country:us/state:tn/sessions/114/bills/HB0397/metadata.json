@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 0397",
-  "title": "Taxes, Sales - As introduced, authorizes an entity designated to operate a stadium designed to host games of an intercollegiate football team that competes in the NCAA Division I Football Championship Subdivision (FCS) to receive a special allocation of state and local sales tax revenue derived from the sale of admission to events occurring within the stadium and from all sales of food, drinks, merchandise, and parking sold on the premises of the stadium to fund capital and operation expenses for the stadium. - Amends TCA Title 67, Chapter 6.",
+  "title": "Taxes, Sales - As enacted, authorizes an entity designated to operate a stadium designed to host games of an intercollegiate football team that competes in the NCAA Division I Football Championship Subdivision (FCS) to receive a special allocation of state and local sales tax revenue derived from the sale of admission to events occurring within the stadium and from all sales of food, drinks, merchandise, and parking sold on the premises of the stadium to fund capital and operation expenses for the stadium. - Amends TCA Title 67, Chapter 6.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0211"
+      "identifier": "ocd-bill-tn-114-hb397"
     }
   ],
   "actions": [
@@ -151,6 +151,284 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:52Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Finance, Ways, and Means Subcommittee for 4/8/2026",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Finance, Ways, and Means Subcommittee for 4/14/2026",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Action Def. in s/c  Finance, Ways, and Means Subcommittee to the Final Calendar No. 2",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Calendar & Rules Committee for 4/16/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Calendar & Rules Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Finance, Ways, and Means Committee for 4/15/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Rec for pass if am by s/c ref. to Finance, Ways, and Means Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "H. Placed on Regular Calendar for 4/20/2026",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Engrossed; ready for transmission to Sen.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Passed H., as am., Ayes 78, Nays 10, PNV 3",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "H. adopted am. (Amendment 1 - HA1189)",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "H. concurred in S. am. no. 1 Ayes 88, Nays 3 PNV 0 HB0397",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "H. Placed on Message Calendar #2 for 4/22/26",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Passed Senate as amended, Ayes 31, Nays 0",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Senate adopted Amendment (Amendment 1 - SA1104)",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Senate substituted House Bill for companion Senate Bill.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Received from House, Passed on First Consideration",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Enrolled; ready for sig. of H. Speaker.",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for his action.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 05/07/2026",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 927",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -175,7 +453,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0397.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0397.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA1189",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA1189.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA1104",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA1104.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -188,7 +488,29 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0211.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0211.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA1189 (16943)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM3167.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA1104 (18361)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM3334.pdf",
           "media_type": ""
         }
       ],
@@ -199,7 +521,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0397&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0397&ga=114",
       "note": ""
     }
   ],
@@ -211,6 +533,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:52Z"
+    "logs_latest_update": "2026-07-02T13:42:57Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 0458",
-  "title": "Election Laws - As introduced, makes various changes to election laws regarding voter registration, absentee and early voting, voter list maintenance, tabulation and recording of votes, and voter identification. - Amends TCA Title 2 and Title 55, Chapter 50.",
+  "title": "Election Laws - As enacted, authorizes nominees to fill a vacancy for a judge, district attorney general, or public defender occurring later than 180 days before the qualifying deadline, to be selected by statewide political parties by any method authorized by the rules of the party. - Amends TCA Title 2 and Title 55, Chapter 50.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0367"
+      "identifier": "ocd-bill-tn-114-hb458"
     }
   ],
   "actions": [
@@ -126,6 +126,92 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on cal. State & Local Government Committee for 2/4/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Calendar & Rules Committee for 2/5/2026",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Calendar & Rules Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "H. Placed on Regular Calendar for 2/9/2026",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Comp. SB subst.",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 534",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -150,7 +236,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0458.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0458.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0547",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0547.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0461",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0461.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -163,7 +271,18 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0367.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0367.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0547 (11640)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1409.pdf",
           "media_type": ""
         }
       ],
@@ -186,6 +305,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

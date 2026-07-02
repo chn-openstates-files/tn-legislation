@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1543",
-  "title": "Sunset Laws - As introduced, extends the state building commission to June 30, 2031. - Amends TCA Title 4, Chapter 15 and Title 4, Chapter 29.",
+  "title": "Sunset Laws - As enacted, extends the state building commission to June 30, 2031. - Amends TCA Title 4, Chapter 15 and Title 4, Chapter 29.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1600"
+      "identifier": "ocd-bill-tn-114-sb1543"
     }
   ],
   "actions": [
@@ -62,6 +62,174 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Placed on Senate Government Operations Committee calendar for 2/4/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Recommended for passage, refer to Senate Calendar Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Consent Calendar 2  for 2/9/2026",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Engrossed; ready for transmission to House",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Passed Senate, Ayes 32, Nays 0",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Rcvd. from S., held on H. desk.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Enrolled and ready for signatures",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Passed H., Ayes 94, Nays 0, PNV 0",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Subst. for comp. HB.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for action.",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 03/06/2026",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 570",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -86,7 +254,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1543.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1543.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -99,7 +267,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1543.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1543.pdf",
           "media_type": ""
         }
       ],
@@ -122,6 +290,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

@@ -15,7 +15,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 1376"
+      "identifier": "ocd-bill-tn-114-hb1061"
     }
   ],
   "actions": [
@@ -66,6 +66,250 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:51Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Insurance Subcommittee  for 2/18/2026",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Action Def. in s/c Insurance Subcommittee to 3/4/2026",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Insurance Subcommittee  for 3/4/2026",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Insurance Committee for 3/10/2026",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Rec for pass if am by s/c ref. to Insurance Committee",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Action def. in  Insurance Committee to 3/17/2026",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Insurance Committee for 3/17/2026",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Action def. in  Insurance Committee to 3/24/2026",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Insurance Committee for 3/24/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Calendar & Rules Committee",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Calendar & Rules Committee for 3/26/2026",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "H. Placed on Regular Calendar for 4/2/2026",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Engrossed; ready for transmission to Sen.",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Passed H., as am., Ayes 94, Nays 0, PNV 0",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "H. adopted am. (Amendment 1 - HA0827)",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Received from House, Passed on First Consideration",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -90,7 +334,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1061.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB1061.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0827",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0827.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA1028",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA1028.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -103,7 +369,18 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB1061.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB1061.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0827 (15044)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2395.pdf",
           "media_type": ""
         }
       ],
@@ -114,7 +391,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1061&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1061&ga=114",
       "note": ""
     }
   ],
@@ -126,6 +403,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:51Z"
+    "logs_latest_update": "2026-07-02T13:43:00Z"
   }
 }

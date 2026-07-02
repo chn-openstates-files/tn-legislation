@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 0590",
-  "title": "Child Custody and Support - As introduced, increases, from twice a week to three times a week, the number of unimpeded telephone or video conference conversations a parent not in possession of a child is entitled to have with the child as part of the right to unimpeded telephone conversations if the technology is available to both the parent and the child. - Amends TCA Title 36 and Title 37.",
+  "title": "Child Custody and Support - As enacted, requires a court to consider the extent to which a parenting schedule provides each parent a meaningful opportunity to participate in the child's life, consistent with the child's best interest, in addition to the other relevant factors, when making a child custody determination.   - Amends TCA Title 36 and Title 37.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0609"
+      "identifier": "ocd-bill-tn-114-hb590"
     }
   ],
   "actions": [
@@ -50,6 +50,154 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:54Z"
       }
+    },
+    {
+      "description": "Assigned to s/c Children and Family Affairs Subcommittee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Ref. to Judiciary Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Children and Family Affairs Subcommittee for 3/3/2026",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Action Def. in s/c  Children and Family Affairs Subcommittee to 3/10/2026",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Children and Family Affairs Subcommittee for 3/10/2026",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Rec for pass if am by s/c ref. to Judiciary Committee",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Judiciary Committee for 3/18/2026",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Judiciary Committee for 3/23/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Action def. in Judiciary Committee to 3/25/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Calendar & Rules Committee",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Calendar & Rules Committee for 3/26/2026",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "H. Placed on Regular Calendar for 3/30/2026",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Comp. SB subst.",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 683",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -74,7 +222,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0590.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0590.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0756",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0756.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0516",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0516.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -87,7 +257,29 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0590.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0590.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0756 (14970)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2378.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0516 (13637)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1708.pdf",
           "media_type": ""
         }
       ],
@@ -98,7 +290,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0590&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0590&ga=114",
       "note": ""
     }
   ],
@@ -110,6 +302,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:54Z"
+    "logs_latest_update": "2026-07-02T13:42:52Z"
   }
 }

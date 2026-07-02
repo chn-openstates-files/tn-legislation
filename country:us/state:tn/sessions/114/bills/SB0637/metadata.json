@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0226"
+      "identifier": "ocd-bill-tn-114-sb637"
     }
   ],
   "actions": [
@@ -52,6 +52,68 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:51Z"
       }
+    },
+    {
+      "description": "Assigned to General Subcommittee of Senate Education Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Education Committee calendar for 3/4/2026",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Finance, Ways, and Means Committee Ayes 5, Nays 4 PNV 0",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/21/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/20/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/21/2026",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +138,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0637.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0637.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0602",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0602.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0902",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0902.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,7 +173,18 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0226.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0226.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0602 (14437)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2079.pdf",
           "media_type": ""
         }
       ],
@@ -100,7 +195,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0637&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0637&ga=114",
       "note": ""
     }
   ],
@@ -112,6 +207,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:51Z"
+    "logs_latest_update": "2026-07-02T13:42:54Z"
   }
 }

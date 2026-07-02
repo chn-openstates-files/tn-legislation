@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0608",
-  "title": "Motor Vehicles - As introduced, authorizes the commissioner of commerce and insurance to promulgate rules pertaining to automobile clubs and associations.  - Amends TCA Title 55.",
+  "title": "Motor Vehicles - As enacted, prohibits the motor vehicle commission from denying an application for a license, or revoking or suspending the license, of a manufacturer, distributor, distributor branch or factory branch or officer, agent or other representative because such person has failed to deliver motor vehicles within 60 days of a dealer's order due to an act of God, a work stoppage or delay due to a strike or other labor action, a lack of available manufacturing capacity, a freight embargo, or other cause or material issue over which the person has no control; makes related changes. - Amends TCA Title 55.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0475"
+      "identifier": "ocd-bill-tn-114-sb608"
     }
   ],
   "actions": [
@@ -42,27 +42,237 @@
       }
     },
     {
-      "description": "Passed on Second Consideration, refer to Senate Transportation and Safety Committee",
-      "date": "2025-02-12",
+      "description": "Passed on Second Consideration, refer to Transportation & Safety Committee",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 2/24/2026",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Refer to Senate Commerce & Labor Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Recalled from Senate Transportation & Safety Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 0 PNV 0",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 3/2/2026",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Engrossed; ready for transmission to House",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Passed Senate as amended, Ayes 32, Nays 0",
+      "date": "2026-03-02",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T02:28:45Z"
+        "log_file_created": "2026-07-02T13:42:52Z"
       }
     },
     {
-      "description": "Assigned to General Subcommittee of Senate Transportation Committee",
-      "date": "2025-03-11",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Senate adopted Amendment (Amendment 1 - SA0503)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "referral-committee"
+        "sponsorship"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T02:28:45Z"
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Rcvd. from S., held on H. desk.",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Passed H., Ayes 93, Nays 0, PNV 0",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Am. withdrawn. (Amendment 1 - HA0677)",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Subst. for comp. HB.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Enrolled and ready for signatures",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for action.",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 05/05/2026",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 885",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
       }
     }
   ],
@@ -88,7 +298,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0608.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0608.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0503",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0503.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0677",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0677.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -101,7 +333,18 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0475.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0475.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0503 (12624)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1492.pdf",
           "media_type": ""
         }
       ],
@@ -112,7 +355,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0608&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0608&ga=114",
       "note": ""
     }
   ],
@@ -124,6 +367,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:45Z"
+    "logs_latest_update": "2026-07-02T13:42:52Z"
   }
 }

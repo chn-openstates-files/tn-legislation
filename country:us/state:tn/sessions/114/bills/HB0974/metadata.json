@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 0974",
-  "title": "Motor Vehicles - As introduced, allows the prior written notification that an auctioneer is required to send to the motor vehicle commission of the time and place of an auction where motor vehicles at a going-out-of-business sale will be sold to be sent electronically. - Amends TCA Title 55, Chapter 17 and Title 62, Chapter 19.",
+  "title": "Motor Vehicles - As enacted, provides that a motor vehicle dealer license is not required to sell or purchase certain antique vehicles or unique motor vehicles through an auction being held at a venue with a permanent seating capacity of at least 20,000 located in Wilson County, the auction operator conducts no more than one auction in this state per year, the action offers no less than 400 vehicles and no more than 2,000 vehicles for any one auction, and the operator has a minimum net worth of $25 million. - Amends TCA Title 55, Chapter 17 and Title 62, Chapter 19.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 1069"
+      "identifier": "ocd-bill-tn-114-hb974"
     }
   ],
   "actions": [
@@ -290,6 +290,140 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:44Z"
       }
+    },
+    {
+      "description": "Passed Senate as amended, Ayes 33, Nays 0",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Senate adopted Amendment (Amendment 2 - SA0458)",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Senate substituted House Bill for companion Senate Bill.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "H. Placed on Message Calendar for 2/12/2026",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Enrolled; ready for sig. of H. Speaker.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "H. concurred in S. am. no. 2 Ayes 91, Nays 0 PNV 0 HB0974",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for his action.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 02/25/2026",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 540",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -314,7 +448,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0974.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0974.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -325,7 +459,7 @@
       "note": "Amendment HA0076",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0076.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0076.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -336,7 +470,18 @@
       "note": "Amendment SA0099",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0099.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0099.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0458",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0458.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -349,7 +494,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0974.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0974.pdf",
           "media_type": ""
         }
       ],
@@ -360,7 +505,7 @@
       "note": "Fiscal Memo for HA0076 (3454)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0308.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1396.pdf",
           "media_type": ""
         }
       ],
@@ -371,7 +516,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0974&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0974&ga=114",
       "note": ""
     }
   ],
@@ -383,6 +528,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:44Z"
+    "logs_latest_update": "2026-07-02T13:42:52Z"
   }
 }

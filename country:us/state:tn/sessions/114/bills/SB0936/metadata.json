@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0936",
-  "title": "State Government - As introduced, declares that the policy of this state is that there are only two sexes, a biological male and a biological female. - Amends TCA Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8.",
+  "title": "State Government - As enacted, requires each governmental entity to revise any existing ordinance, resolution, rule, policy, and procedure that includes a reference to a natural person's sex or gender to state that those terms are defined as the immutable characteristics of the person's reproductive system that identify the person as male or female, as determined by anatomy and genetics testing at the time of birth; makes related changes. - Amends TCA Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1271"
+      "identifier": "ocd-bill-tn-114-sb936"
     }
   ],
   "actions": [
@@ -92,6 +92,50 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:52Z"
       }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/22/2026",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 938",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -116,7 +160,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0936.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0936.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -127,7 +171,51 @@
       "note": "Amendment SA0147",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0147.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0147.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0763",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0763.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0889",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0889.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0890",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0890.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0894",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0894.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -140,7 +228,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0936.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0936.pdf",
           "media_type": ""
         }
       ],
@@ -151,7 +239,18 @@
       "note": "Fiscal Memo for SA0147 (5854)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0839.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0839.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0763 (16190)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2863.pdf",
           "media_type": ""
         }
       ],
@@ -162,7 +261,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0936&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0936&ga=114",
       "note": ""
     }
   ],
@@ -174,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:52Z"
+    "logs_latest_update": "2026-07-02T13:42:59Z"
   }
 }

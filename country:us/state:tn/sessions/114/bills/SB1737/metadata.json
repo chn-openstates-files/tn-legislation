@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1737",
-  "title": "Criminal Offenses - As introduced, creates the criminal offense of knowingly traveling, with intent to commit theft of another person's cash, from a commercial business or financial institution on the same path or route as another person without substantially deviating from that path or route while in possession of two or more criminal instruments. - Amends TCA Title 39.",
+  "title": "Criminal Offenses - As enacted, creates the offense for a person to knowingly travel, with intent to commit theft of another person's cash, from a commercial business; a financial institution; or an automated teller machine, on the same path or route as another person without substantial deviation from that path or route while in possession of two or more criminal instruments. - Amends TCA Title 39.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1668"
+      "identifier": "ocd-bill-tn-114-sb1737"
     }
   ],
   "actions": [
@@ -40,6 +40,134 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Passed on Second Consideration, refer to Senate Judiciary Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Judiciary Committee calendar for 2/24/2026",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Recommended for passage, refer to Senate Finance, Ways, and Means Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/21/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/20/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/21/2026",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/22/2026",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 3 PNV 0",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 951",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,7 +192,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1737.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1737.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA1084",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA1084.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0600",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0600.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -72,7 +222,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB1668.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA1084 (13767)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1845.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -88,6 +261,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:57Z"
   }
 }

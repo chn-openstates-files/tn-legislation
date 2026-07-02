@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1588",
-  "title": "Capitol - As introduced, creates the capitol hill protection zone around the state capitol grounds and surrounding state government buildings, including the grounds and roads immediately surrounding such buildings; requires the commissioner of safety to ensure that the capitol hill protection zone is adequately staffed by law enforcement officers to ensure the safety of state government officials, state government employees, and members of the public. - Amends TCA Title 4; Title 38; Title 39 and Title 40.",
+  "title": "Capitol - As enacted, creates a capitol hill protection zone around the state capitol grounds that includes the state capitol, capitol annexes, World War II Memorial Building that formerly housed the state library and archives, Supreme Court Building, William R. Snodgrass Tennessee Tower, War Memorial Building, Legislative Plaza, James K. Polk State Office Building, Rachel Jackson Building, Andrew Jackson Building, John Sevier State Office Building, Cordell Hull Building, and the grounds, roads, and sidewalks along either side of the roads immediately surrounding such buildings. - Amends TCA Title 4; Title 38; Title 39 and Title 40.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1504"
+      "identifier": "ocd-bill-tn-114-sb1588"
     }
   ],
   "actions": [
@@ -52,6 +52,112 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on Senate Judiciary Committee calendar for 3/23/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Judiciary Committee calendar for 3/24/2026",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Judiciary Committee to 3/24/2026",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 7, Nays 0 PNV 2",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/20/2026",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/20/2026",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 944",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +182,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1588.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1588.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0932",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0932.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0574",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0574.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -84,7 +212,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB1504.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0932 (13566)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1665.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -100,6 +251,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:52Z"
   }
 }

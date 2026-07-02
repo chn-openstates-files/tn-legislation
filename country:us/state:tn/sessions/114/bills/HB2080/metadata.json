@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 2080",
-  "title": "Lottery,  Corporation - As introduced, vacates and reconstitutes the board of directors of the Tennessee education lottery corporation; requires certain information maintained by the corporation to be subject to a public records request; terminates the lottery corporation on June 30, 2030. - Amends TCA Title 4; Title 10 and Title 49.",
+  "title": "Lottery,  Corporation - As enacted, vacates and reconstitutes the board of directors of the Tennessee education lottery corporation; requires certain information maintained by the corporation to be subject to a public records request; terminates the lottery corporation on June 30, 2030. - Amends TCA Title 4; Title 10 and Title 49.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 1723"
+      "identifier": "ocd-bill-tn-114-hb2080"
     }
   ],
   "actions": [
@@ -28,6 +28,236 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
+      }
+    },
+    {
+      "description": "Intro., P1C.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Assigned to s/c Departments & Agencies Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "P2C, ref. to State & Local Government Committee - Government Operations for Review",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Departments & Agencies Subcommittee for 3/17/2026",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Taken off notice for cal in s/c  Departments & Agencies Subcommittee of State & Local Government Committee",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Departments & Agencies Subcommittee for 4/15/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Calendar & Rules Committee for 4/16/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Rec. for pass; ref to  Calendar & Rules Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Finance, Ways, and Means Committee for 4/15/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Rec. for pass by s/c ref. to Finance, Ways, and Means Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Finance, Ways, and Means Subcommittee for 4/15/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Assigned to s/c Finance, Ways, and Means Subcommittee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Rec. for pass; ref to  Finance, Ways, and Means Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Government Operations Committee for 4/15/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Government Operations Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on cal. State & Local Government Committee for 4/15/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Rec for pass if am by s/c ref. to State & Local Government Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "H. Placed on Regular Calendar for 4/20/2026",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Comp. SB subst.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 1084",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
       }
     }
   ],
@@ -53,7 +283,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB2080.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB2080.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA1163",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA1163.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0642",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0642.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -61,7 +313,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1723.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA1163 (14937)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2322.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -77,6 +352,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:55Z"
   }
 }

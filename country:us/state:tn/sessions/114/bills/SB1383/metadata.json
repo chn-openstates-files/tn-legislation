@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0476"
+      "identifier": "ocd-bill-tn-114-sb1383"
     }
   ],
   "actions": [
@@ -105,6 +105,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:49Z"
       }
+    },
+    {
+      "description": "Assigned to General Subcommittee of Senate Commerce & Labor Committee",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -129,7 +141,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1383.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1383.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -142,7 +154,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0476.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0476.pdf",
           "media_type": ""
         }
       ],
@@ -153,7 +165,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1383&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1383&ga=114",
       "note": ""
     }
   ],
@@ -165,6 +177,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:49Z"
+    "logs_latest_update": "2026-07-02T13:43:00Z"
   }
 }

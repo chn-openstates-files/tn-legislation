@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tn-114-hr7"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -102,6 +106,38 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:11Z"
       }
+    },
+    {
+      "description": "Placed on cal. Health Committee for 2/3/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Reset on Final cal. 2 of  Health Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -120,7 +156,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HR0007.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HR0007.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -133,7 +169,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HR0007.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HR0007.pdf",
           "media_type": ""
         }
       ],
@@ -156,6 +192,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:11Z"
+    "logs_latest_update": "2026-07-02T13:42:59Z"
   }
 }

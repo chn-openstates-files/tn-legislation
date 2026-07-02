@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1640",
-  "title": "Victims' Rights - As introduced, adds persons required by law to register as a persistent domestic violence offender to the list of persons who are not eligible to participate in the address confidentiality program; makes various other changes to the address confidentiality program. - Amends TCA Title 40, Chapter 38, Part 6.",
+  "title": "Victims' Rights - As enacted, adds persons required by law to register as a persistent domestic violence offender to the list of persons who are not eligible to participate in the address confidentiality program; makes various other changes to the address confidentiality program. - Amends TCA Title 40, Chapter 38, Part 6.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1552"
+      "identifier": "ocd-bill-tn-114-sb1640"
     }
   ],
   "actions": [
@@ -52,6 +52,176 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on Senate Judiciary Committee calendar for 2/10/2026",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Recommended for passage, refer to Senate Calendar Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Consent Calendar 2  for 2/19/2026",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Engrossed; ready for transmission to House",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Passed Senate, Ayes 31, Nays 0",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Passed H., Ayes 92, Nays 0, PNV 0",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Subst. for comp. HB.",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Enrolled and ready for signatures",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for action.",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 03/06/2026",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 582",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +246,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1640.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1640.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,7 +259,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1640.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1640.pdf",
           "media_type": ""
         }
       ],
@@ -112,6 +282,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:55Z"
   }
 }

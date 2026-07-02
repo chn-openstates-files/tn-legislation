@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0725"
+      "identifier": "ocd-bill-tn-114-sb815"
     }
   ],
   "actions": [
@@ -52,6 +52,208 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:51Z"
       }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 3/3/2026",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 3/10/2026",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate State and Local Government Committee to 3/10/2026",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate State and Local Government Committee to 3/17/2026",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 3/17/2026",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate State and Local Government Committee to 3/24/2026",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 3/24/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 3/25/2026",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate State and Local Government Committee to 3/25/2026",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Assigned to General Subcommittee of Senate State and Local Government Committee",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 3/25/2026",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 3/31/2026",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Rule #83(8) Suspended, to be heard in Senate State & Local Gov't Committee on 3/31/2026",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 0 PNV 0",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/14/2026",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Senate Reset on calendar for 4/20/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/20/2026",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Senate Reset on calendar for 4/22/2026",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/22/2026",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Re-refer to Senate State & Local Gov't Committee",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +278,40 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0815.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0815.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0957",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0957.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA1035",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA1035.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0798",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0798.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,7 +324,40 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0725.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0725.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0957 (17039)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM3186.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA1035 (17753)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM3331.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0798 (15505)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM3168.pdf",
           "media_type": ""
         }
       ],
@@ -100,7 +368,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0815&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0815&ga=114",
       "note": ""
     }
   ],
@@ -112,6 +380,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:51Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 1353"
+      "identifier": "ocd-bill-tn-114-hb1395"
     }
   ],
   "actions": [
@@ -124,6 +124,66 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Criminal Justice Subcommittee for 2/4/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Def. to Special Calendar to be Published with Final Calendar in Criminal Justice Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Criminal Justice Subcommittee for 3/25/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Criminal Justice Subcommittee for 4/1/2026",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Criminal Justice Subcommittee for 4/7/2026",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "No Action Taken",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -148,7 +208,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1395.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB1395.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -161,7 +221,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1353.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1353.pdf",
           "media_type": ""
         }
       ],
@@ -184,6 +244,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:52Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1535",
-  "title": "Sunset Laws - As introduced, extends the post-conviction defender oversight commission to June 30, 2032. - Amends TCA Title 4, Chapter 29 and Title 40, Chapter 30, Part 2.",
+  "title": "Sunset Laws - As enacted, extends the post-conviction defender oversight commission to June 30, 2032. - Amends TCA Title 4, Chapter 29 and Title 40, Chapter 30, Part 2.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1622"
+      "identifier": "ocd-bill-tn-114-sb1535"
     }
   ],
   "actions": [
@@ -52,6 +52,58 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on Senate Government Operations Committee calendar for 2/11/2026",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Recommended for passage, refer to Senate Calendar Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Consent Calendar 2  for 2/19/2026",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 587",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +128,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1535.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1535.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,7 +141,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1535.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1535.pdf",
           "media_type": ""
         }
       ],
@@ -112,6 +164,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:58Z"
   }
 }

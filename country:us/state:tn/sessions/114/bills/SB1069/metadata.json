@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1069",
-  "title": "Motor Vehicles - As introduced, allows the prior written notification that an auctioneer is required to send to the motor vehicle commission of the time and place of an auction where motor vehicles at a going-out-of-business sale will be sold to be sent electronically. - Amends TCA Title 55, Chapter 17 and Title 62, Chapter 19.",
+  "title": "Motor Vehicles - As enacted, provides that a motor vehicle dealer license is not required to sell or purchase certain antique vehicles or unique motor vehicles through an auction being held at a venue with a permanent seating capacity of at least 20,000 located in Wilson County, the auction operator conducts no more than one auction in this state per year, the action offers no less than 400 vehicles and no more than 2,000 vehicles for any one auction, and the operator has a minimum net worth of $25 million. - Amends TCA Title 55, Chapter 17 and Title 62, Chapter 19.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0974"
+      "identifier": "ocd-bill-tn-114-sb1069"
     }
   ],
   "actions": [
@@ -264,6 +264,40 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 540",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -288,7 +322,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1069.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1069.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -299,7 +333,7 @@
       "note": "Amendment SA0099",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0099.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0099.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -310,7 +344,7 @@
       "note": "Amendment SA0458",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0458.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0458.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -321,7 +355,7 @@
       "note": "Amendment HA0076",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0076.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0076.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -334,7 +368,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0974.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0974.pdf",
           "media_type": ""
         }
       ],
@@ -345,11 +379,7 @@
       "note": "Fiscal Memo for SA0099 (3454)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0308.pdf",
-          "media_type": ""
-        },
-        {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1396.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1396.pdf",
           "media_type": ""
         }
       ],
@@ -372,6 +402,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:54Z"
   }
 }

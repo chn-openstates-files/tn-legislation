@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0676",
-  "title": "Health Care - As introduced, requires gender clinics accepting funds from this state to perform gender transition procedures to also perform detransition procedures; requires insurance entities providing coverage of gender transition procedures to also cover detransition procedures; requires certain gender clinics and insurance entities to report information regarding detransition procedures to the department of health. - Amends TCA Title 1; Title 4; Title 33; Title 56; Title 63; Title 68 and Title 71.",
+  "title": "Health Care - As enacted, revises law relative to gender clinics and related services. - Amends TCA Title 1; Title 4; Title 33; Title 56; Title 63; Title 68 and Title 71.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0754"
+      "identifier": "ocd-bill-tn-114-sb676"
     }
   ],
   "actions": [
@@ -174,6 +174,122 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:51Z"
       }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 3/17/2026",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 3/24/2026",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Finance, Ways, and Means Committee to 3/24/2026",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 3 PNV 0",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/9/2026",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Senate Reset on calendar for 4/13/2026",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/13/2026",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 932",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -198,7 +314,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0676.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0676.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -209,7 +325,40 @@
       "note": "Amendment SA0242",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0242.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0242.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0834",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0834.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0838",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0838.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0993",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0993.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -220,7 +369,29 @@
       "note": "Amendment HA0111",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0111.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0111.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0695",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0695.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0846",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0846.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -233,7 +404,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0676.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0676.pdf",
           "media_type": ""
         }
       ],
@@ -244,7 +415,7 @@
       "note": "Fiscal Memo for SA0242 (5099)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0529.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2877.pdf",
           "media_type": ""
         }
       ],
@@ -255,7 +426,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0676&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0676&ga=114",
       "note": ""
     }
   ],
@@ -267,6 +438,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:51Z"
+    "logs_latest_update": "2026-07-02T13:42:59Z"
   }
 }

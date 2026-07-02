@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 1925",
-  "title": "Safety, Dept. of - As introduced, requires every person who has resided in this state for a period of more than 30 days and who is not lawfully present in the United States to register and submit to an interview with the department at which time the department may issue the person a one-year visa for re-entry into the United States and to this state; if the person does not commit a criminal offense within such one-year period, the person is eligible to apply for permanent resident status upon completion of the one-year period. - Amends TCA Title 4; Title 8 and Title 39.",
+  "title": "Safety, Dept. of - As introduced, enacts the \"One America Act,\" which requires every person who has resided in this state for a period of more than 30 days and who is not lawfully present in the United States to register and submit to an interview with the department at which time the department may issue the person a one-year visa for re-entry into the United States and to this state; if the person does not commit a criminal offense within such one-year period, the person is eligible to apply for permanent resident status upon completion of the one-year period. - Amends TCA Title 4; Title 8 and Title 39.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 2037"
+      "identifier": "ocd-bill-tn-114-hb1925"
     }
   ],
   "actions": [
@@ -28,6 +28,62 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
+      }
+    },
+    {
+      "description": "Intro., P1C.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Assigned to s/c Departments & Agencies Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "P2C, ref. to State & Local Government Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Departments & Agencies Subcommittee for 3/17/2026",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Def. to Summer Study in Departments & Agencies Subcommittee",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
       }
     }
   ],
@@ -53,7 +109,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1925.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB1925.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -61,7 +117,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB2037.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -77,6 +145,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:52Z"
   }
 }

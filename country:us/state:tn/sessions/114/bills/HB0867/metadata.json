@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0898"
+      "identifier": "ocd-bill-tn-114-hb867"
     }
   ],
   "actions": [
@@ -236,6 +236,18 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -260,7 +272,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0867.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0867.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -271,7 +283,7 @@
       "note": "Amendment HA0148",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0148.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0148.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -284,7 +296,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0867.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0867.pdf",
           "media_type": ""
         }
       ],
@@ -295,7 +307,7 @@
       "note": "Fiscal Memo for HA0148 (6003)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0922.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0922.pdf",
           "media_type": ""
         }
       ],
@@ -318,6 +330,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

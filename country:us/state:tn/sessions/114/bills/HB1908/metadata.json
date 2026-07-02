@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 1908",
-  "title": "Appropriations - As introduced, makes appropriations for the purpose of defraying the expenses of certain legislative enactments passed during the 2026 session of the 114th General Assembly; earmarks sufficient state funds for the purpose of funding any bill naming a highway or bridge in honor of a service member killed in action. - to make appropriations for the purpose of defraying the expenses of the state government for the fiscal years beginning July 1, 2025, and July 1, 2026.",
+  "title": "Appropriations - As introduced, makes appropriations for the purpose of defraying the expenses of certain legislative enactments passed during the 2026 session of the 114th General Assembly; earmarks sufficient state funds for the purpose of funding any bill naming a highway or bridge in honor of a service member killed in action. -",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 2082"
+      "identifier": "ocd-bill-tn-114-hb1908"
     }
   ],
   "actions": [
@@ -27,6 +27,42 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Intro., P1C.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Assigned to s/c Finance, Ways, and Means Subcommittee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "P2C, ref. to Finance, Ways, and Means Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
       }
     }
   ],
@@ -52,7 +88,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1908.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB1908.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -76,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:54Z"
   }
 }

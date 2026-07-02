@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0671",
-  "title": "Criminal Offenses - As introduced, increases from a Class E felony to a Class D felony the offense of burglary of a conveyance. - Amends TCA Title 39 and Title 40.",
+  "title": "Criminal Offenses - As enacted, increases from a Class E felony to a Class D felony the offense of burglary of a conveyance. - Amends TCA Title 39 and Title 40.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0555"
+      "identifier": "ocd-bill-tn-114-sb671"
     }
   ],
   "actions": [
@@ -102,6 +102,90 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:42Z"
       }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/21/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/20/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/21/2026",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/22/2026",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 9, Nays 2 PNV 0",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 930",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -126,7 +210,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0671.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0671.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -137,7 +221,29 @@
       "note": "Amendment SA0045",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0045.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0045.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA1086",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA1086.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA1151",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA1151.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -150,7 +256,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0555.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0555.pdf",
           "media_type": ""
         }
       ],
@@ -161,7 +267,18 @@
       "note": "Fiscal Memo for SA0045 (4405)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0301.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0301.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA1086 (17350)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM3216.pdf",
           "media_type": ""
         }
       ],
@@ -172,7 +289,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0671&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0671&ga=114",
       "note": ""
     }
   ],
@@ -184,6 +301,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:42Z"
+    "logs_latest_update": "2026-07-02T13:42:55Z"
   }
 }

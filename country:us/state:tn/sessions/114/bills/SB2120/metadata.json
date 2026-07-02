@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 2120",
-  "title": "Eminent Domain - As introduced, requires an airport authority that exercises eminent domain to acquire private property to pay enhanced damages and costs to the owner of the subject real property. - Amends TCA Title 29 and Title 42.",
+  "title": "Eminent Domain - As introduced, enacts the \"Tennessee Just Compensation for Property Owners Act,\" which requires an airport authority that exercises eminent domain to acquire private property to pay enhanced damages and costs to the owner of the subject real property. - Amends TCA Title 29 and Title 42.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 2037"
+      "identifier": "ocd-bill-tn-114-sb2120"
     }
   ],
   "actions": [
@@ -27,6 +27,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
+      }
+    },
+    {
+      "description": "Introduced, Passed on First Consideration",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Passed on Second Consideration, refer to Senate Judiciary Committee",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
       }
     }
   ],
@@ -52,7 +76,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB2120.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB2120.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -60,7 +84,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB2120.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -76,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:59Z"
   }
 }

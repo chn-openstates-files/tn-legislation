@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1297"
+      "identifier": "ocd-bill-tn-114-sb1092"
     }
   ],
   "actions": [
@@ -52,6 +52,28 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:44Z"
       }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 3/3/2026",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Assigned to General Subcommittee of Senate Commerce and Labor Committee",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +98,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1092.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1092.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,7 +111,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1092.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1092.pdf",
           "media_type": ""
         }
       ],
@@ -100,7 +122,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1092&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1092&ga=114",
       "note": ""
     }
   ],
@@ -112,6 +134,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:44Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

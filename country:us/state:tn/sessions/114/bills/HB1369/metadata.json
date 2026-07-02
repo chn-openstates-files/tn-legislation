@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 1369",
-  "title": "Health, Dept. of - As introduced, requires the department to make available and require blood lead level testing for students in certain schools and certain pregnant women; requires the department to provide to persons who have high blood lead levels or lead poisoning certain services to aid with such condition; requires juvenile detention facilities that are aware of a juvenile in custody with high blood lead levels or lead poisoning to provide certain services in collaboration with the department and local education agencies.  - Amends TCA Title 37; Title 49; Title 63; Title 68 and Title 71.",
+  "title": "Health, Dept. of - As enacted, requires the department to make available and require educational materials on blood lead level testing for a pregnant woman who receives vouchers for the special supplemental food program for women, infants, and children. - Amends TCA Title 37; Title 49; Title 63; Title 68 and Title 71.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 1255"
+      "identifier": "ocd-bill-tn-114-hb1369"
     }
   ],
   "actions": [
@@ -85,6 +85,144 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Health Subcommittee for 3/18/2026",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Health Subcommittee for 3/25/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Action Def. in s/c  Health Subcommittee to 3/25/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Health Committee for 3/31/2026",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Rec for pass if am by s/c ref. to Health Committee",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Education Committee",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Education Committee for 4/8/2026",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Calendar & Rules Committee",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "H. Placed on Regular Calendar for 4/16/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Calendar & Rules Committee for 4/14/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Comp. SB subst.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 1062",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -109,7 +247,51 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1369.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB1369.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0943",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0943.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA1078",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA1078.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0781",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0781.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0856",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0856.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -122,7 +304,29 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1255.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1255.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0943 (16074)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2808.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA1078 (16639)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM3029.pdf",
           "media_type": ""
         }
       ],
@@ -145,6 +349,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:43:00Z"
   }
 }

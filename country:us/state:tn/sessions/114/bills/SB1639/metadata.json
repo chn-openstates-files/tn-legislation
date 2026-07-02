@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1639",
-  "title": "Secretary of State - As introduced, removes the filing fee that must be paid to the secretary of state to file articles of termination of corporation existence; increases the number of days after a person ceases solicitation activities after registration with the secretary of state, from 30 to 90, that the person has to notify the secretary of state; removes the requirement that a charitable organization that ceases solicitation activity and received in excess of $1 million in gross revenue during the most recently completed fiscal year include an audited financial statement and forms required to be filed by a charitable organization with the United States internal revenue service with the organization's notice to the secretary of state that the organization ceased solicitation activities. - Amends TCA Title 48.",
+  "title": "Secretary of State - As enacted, removes the filing fee that must be paid to the secretary of state to file articles of termination of corporation existence; increases the number of days after a person ceases solicitation activities after registration with the secretary of state, from 30 to 90, that the person has to notify the secretary of state; removes the requirement that a charitable organization that ceases solicitation activity and received in excess of $1 million in gross revenue during the most recently completed fiscal year include an audited financial statement and forms required to be filed by a charitable organization with the U.S. internal revenue service with the organization's notice to the secretary of state that the organization ceased solicitation activities. - Amends TCA Title 48.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1553"
+      "identifier": "ocd-bill-tn-114-sb1639"
     }
   ],
   "actions": [
@@ -52,6 +52,58 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 2/10/2026",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Recommended for passage, refer to Senate Calendar Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/22/2026",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 948",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +128,18 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1639.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1639.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0573",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0573.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,7 +152,18 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1639.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1639.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0573 (13368)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1590.pdf",
           "media_type": ""
         }
       ],
@@ -112,6 +186,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:55Z"
   }
 }

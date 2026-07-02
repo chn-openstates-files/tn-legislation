@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0995",
-  "title": "Contracts - As introduced, prohibits the enforcement of any restriction on the right of an employee or contractor to practice the employee's or contractor's profession upon termination or conclusion of the employment or contractual relationship. - Amends TCA Title 50; Title 63 and Title 68.",
+  "title": "Contracts - As enacted, requires a court to apply rebuttable presumptions when determining the reasonableness in time of a restrictive covenant sought to be enforced after the termination of an employment or business relationship; makes related changes. - Amends TCA Title 50; Title 63 and Title 68.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1034"
+      "identifier": "ocd-bill-tn-114-sb995"
     }
   ],
   "actions": [
@@ -104,6 +104,162 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:53Z"
       }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 3/3/2026",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Commerce and Labor Committee to 3/10/2026",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 3/10/2026",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Commerce and Labor Committee to 3/17/2026",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 4/7/2026",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 6, Nays 3 PNV 0",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/16/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/16/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Senate Reset on calendar for 4/20/2026",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/20/2026",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/20/2026",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 934",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -128,7 +284,40 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0995.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0995.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA1007",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA1007.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0616",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0616.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0617",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0617.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -141,7 +330,29 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0995.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0995.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA1007 (14277)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2045.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0616 (12379)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2021.pdf",
           "media_type": ""
         }
       ],
@@ -152,7 +363,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0995&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0995&ga=114",
       "note": ""
     }
   ],
@@ -164,6 +375,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:53Z"
+    "logs_latest_update": "2026-07-02T13:42:58Z"
   }
 }

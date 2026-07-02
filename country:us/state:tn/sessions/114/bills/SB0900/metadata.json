@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0900",
-  "title": "Criminal Procedure - As introduced, changes from April 1 to April 15, the date by which a county legislative body must submit to the judges of the general sessions criminal court of the county and the chairs of the legislative committees having jurisdiction over criminal matters a written report setting forth findings and the overall evaluation of the use of judicial commissioners. - Amends TCA Title 40.",
+  "title": "Criminal Procedure - As enacted, prohibits a defendant charged with certain offenses from being released on the defendant's personal recognizance or upon execution of an unsecured bond. - Amends TCA Title 40.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0920"
+      "identifier": "ocd-bill-tn-114-sb900"
     }
   ],
   "actions": [
@@ -52,6 +52,110 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:52Z"
       }
+    },
+    {
+      "description": "Placed on Senate Judiciary Committee calendar for 4/8/2026",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Finance, Ways, and Means Committee Ayes 7, Nays 2 PNV 0",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/21/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/20/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/21/2026",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/22/2026",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Recommended for passage, refer to Senate Calendar Committee",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 933",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +180,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0900.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0900.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0997",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0997.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA1056",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA1056.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,7 +215,18 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0920.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0920.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0997 (16324)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM3166.pdf",
           "media_type": ""
         }
       ],
@@ -100,7 +237,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0900&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0900&ga=114",
       "note": ""
     }
   ],
@@ -112,6 +249,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:52Z"
+    "logs_latest_update": "2026-07-02T13:42:54Z"
   }
 }

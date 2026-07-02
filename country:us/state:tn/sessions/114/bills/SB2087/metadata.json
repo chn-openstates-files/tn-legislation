@@ -1,19 +1,20 @@
 {
   "legislative_session": "114",
   "identifier": "SB 2087",
-  "title": "Local Education Agencies - As introduced, requires a principal or the principal's designee to notify the parent or legal guardian of each student who was evacuated from a classroom due to the violent, aggressive, or severely disruptive behavior of another student no later than the end of the school day in which the classroom evacuation occurred. - Amends TCA Title 49.",
+  "title": "Teachers, Principals and School Personnel - As enacted, requires the principal or the principal's designee provide notification to the parent or legal guardian of each student who was in the classroom or instructional area at the time that a classroom evacuation occurred by the end of the day in which the classroom evacuation occurred unless the event that prompted the classroom evacuation is an ongoing emergency or is otherwise under investigation by a state or local law enforcement agency, in which case the notification must not be provided to parents and legal guardians until the emergency event is resolved or the principal or the principal's designee determines that providing the notification does not impede an ongoing investigation, as applicable. - Amends TCA Title 49.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Local Education Agencies"
+    "Principals and School Personnel",
+    "Teachers"
   ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1895"
+      "identifier": "ocd-bill-tn-114-sb2087"
     }
   ],
   "actions": [
@@ -27,6 +28,272 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Introduced, Passed on First Consideration",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Passed on Second Consideration, refer to Senate Education Committee",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Education Committee calendar for 3/11/2026",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Education Committee to 3/18/2026",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Education Committee calendar for 3/18/2026",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 0 PNV 0",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 3/30/2026",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Engrossed; ready for transmission to House",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Passed Senate as amended, Ayes 32, Nays 0",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Amendment withdrawn. (Amendment 1 - SA0678)",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Senate adopted Amendment (Amendment 2 - SA0803)",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Rcvd. from S., held on H. desk.",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Passed H., Ayes 57, Nays 32, PNV 5",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Failed to adopt am (Amendment 2 - HA1127),  Ayes 23, Nays 71, PNV 0",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Am. withdrawn. (Amendment 1 - HA1021)",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Subst. for comp. HB.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Enrolled and ready for signatures",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for action.",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 07/01/2026",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 850",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
       }
     }
   ],
@@ -52,7 +319,51 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB2087.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB2087.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0678",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0678.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0803",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0803.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA1021",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA1021.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA1127",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA1127.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -60,7 +371,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB1895.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0678 (14044)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2078.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0803 (15700)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2658.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -76,6 +421,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:54Z"
   }
 }

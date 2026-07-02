@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tn-114-sjr610"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -36,6 +40,58 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Passed on Second Consideration, refer to Senate Judiciary Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Judiciary Committee calendar for 3/9/2026",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Judiciary Committee calendar for 3/10/2026",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Judiciary Committee to 3/10/2026",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Recommended for adoption by Senate Judiciary Committee, refer Senate Calendar Committee",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -54,7 +110,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SJR0610.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SJR0610.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -67,7 +123,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SJR0610.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SJR0610.pdf",
           "media_type": ""
         }
       ],
@@ -90,6 +146,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:57Z"
   }
 }

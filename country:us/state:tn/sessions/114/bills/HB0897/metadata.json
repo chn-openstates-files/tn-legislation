@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 1141"
+      "identifier": "ocd-bill-tn-114-hb897"
     }
   ],
   "actions": [
@@ -200,6 +200,26 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Agriculture & Natural Resources Subcommittee for 2/4/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Taken off notice for cal in s/c  Agriculture and Natural Resources Subcommittee of  Agriculture & Natural Resources Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -224,7 +244,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0897.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0897.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -235,7 +255,7 @@
       "note": "Amendment SA0165",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0165.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0165.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -248,7 +268,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0897.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0897.pdf",
           "media_type": ""
         }
       ],
@@ -259,7 +279,7 @@
       "note": "Fiscal Memo for SA0165 (4947)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0555.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0555.pdf",
           "media_type": ""
         }
       ],
@@ -282,6 +302,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:56Z"
   }
 }

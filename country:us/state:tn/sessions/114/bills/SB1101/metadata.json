@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0402"
+      "identifier": "ocd-bill-tn-114-sb1101"
     }
   ],
   "actions": [
@@ -93,15 +93,49 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 2/3/2026",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Assigned to General Subcommittee of Senate Finance, Ways, and Means Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Sponsor change.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Campbell",
+      "name": "Hatcher",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Campbell\"}",
+      "person_id": "~{\"name\": \"Hatcher\"}",
       "organization_id": null
     }
   ],
@@ -117,7 +151,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1101.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1101.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -130,7 +164,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0402.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0402.pdf",
           "media_type": ""
         }
       ],
@@ -153,6 +187,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

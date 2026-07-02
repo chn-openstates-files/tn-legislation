@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0336",
-  "title": "Election Laws - As introduced, removes the permanent deprivation of the right of suffrage upon conviction of first degree murder, aggravated rape, treason, or voter fraud; removes the requirement that a person must have paid all court costs in order to be eligible for restoration of the right of suffrage; requires a person to be compliant with all current child support orders rather than current in all child support obligations in order to be eligible for restoration of the right of suffrage. - Amends TCA Title 2 and Title 40.",
+  "title": "Election Laws - As enacted, revises present law that prohibits a person convicted of an infamous crime after May 18, 1981, from being eligible to have the right to vote restored unless the person meets certain requirements, including having been compliant with all child support orders for the previous 12 months, including orders related to child support arrearages. - Amends TCA Title 2 and Title 40.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0687"
+      "identifier": "ocd-bill-tn-114-sb336"
     }
   ],
   "actions": [
@@ -218,6 +218,144 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:47Z"
       }
+    },
+    {
+      "description": "Passed H., as am., Ayes 64, Nays 24, PNV 5",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "H. adopted am. (Amendment 1 - HA0602)",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Subst. for comp. HB.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Message Calendar  for 3/12/2026",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Concurred, Ayes 31, Nays 1 (Amendment 1 - HA0602)",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Enrolled and ready for signatures",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for action.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 03/26/2026",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 605",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -242,7 +380,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0336.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0336.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -253,7 +391,7 @@
       "note": "Amendment SA0227",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0227.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0227.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -264,7 +402,7 @@
       "note": "Amendment SA0302",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0302.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0302.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -275,7 +413,18 @@
       "note": "Amendment SA0381",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0381.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0381.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0602",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0602.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -288,7 +437,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0336.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0336.pdf",
           "media_type": ""
         }
       ],
@@ -299,7 +448,18 @@
       "note": "Fiscal Memo for SA0302 (6585)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1125.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1125.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0602 (11373)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1422.pdf",
           "media_type": ""
         }
       ],
@@ -310,7 +470,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0336&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0336&ga=114",
       "note": ""
     }
   ],
@@ -322,6 +482,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:47Z"
+    "logs_latest_update": "2026-07-02T13:42:55Z"
   }
 }

@@ -12,7 +12,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tn-114-hjr3"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -167,6 +171,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:44Z"
       }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -185,7 +201,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HJR0003.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HJR0003.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -197,7 +213,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HJR0003&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0003&ga=114",
       "note": ""
     }
   ],
@@ -209,6 +225,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:44Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

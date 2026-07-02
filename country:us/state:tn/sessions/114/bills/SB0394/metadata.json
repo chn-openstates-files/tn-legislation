@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0394",
-  "title": "Insurance Companies, Agents, Brokers, Policies - As introduced, authorizes a purchaser or borrower in a real property transaction to select the settlement agent to perform certain duties; authorizes the seller to retain a licensed attorney in this state to represent the seller's interests in such transaction; prohibits the designated settlement agent from collecting transaction-related fees from a represented seller without consent of the seller's attorney. - Amends TCA Title 56, Chapter 35 and Title 66.",
+  "title": "Insurance Companies, Agents, Brokers, Policies - As enacted, requires title insurance agencies that separately represent the buyer and seller in a real estate transaction and agree to an arrangement to share the title insurance premiums, commissions, or other fees paid by the buyer and seller, to provide written notice to the buyer and seller of such sharing arrangement and to receive signed, written acknowledgement from  the buyer and seller confirming that they were so notified in writing; makes other related changes. - Amends TCA Title 56, Chapter 35 and Title 66.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -16,7 +16,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0569"
+      "identifier": "ocd-bill-tn-114-sb394"
     }
   ],
   "actions": [
@@ -107,6 +107,118 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:50Z"
       }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 3/3/2026",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Commerce and Labor Committee to 3/10/2026",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 3/10/2026",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Refer to Senate Judiciary Committee",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Judiciary Committee calendar for 3/23/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Judiciary Committee calendar for 3/24/2026",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Judiciary Committee to 3/24/2026",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 9, Nays 0 PNV 0",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 4/6/2026",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 769",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -131,7 +243,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0394.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0394.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0919",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0919.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0852",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0852.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -144,7 +278,18 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0394.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0394.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0919 (15999)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2826.pdf",
           "media_type": ""
         }
       ],
@@ -155,7 +300,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0394&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0394&ga=114",
       "note": ""
     }
   ],
@@ -167,6 +312,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:50Z"
+    "logs_latest_update": "2026-07-02T13:42:54Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 1380",
-  "title": "Taxes, Real Property - As introduced, exempts taxpayers who are 85 or older and who have received property tax relief for at least five consecutive years from annual income reporting requirements for continued participation. - Amends TCA Title 67, Chapter 5, Part 7.",
+  "title": "Taxes, Real Property - As enacted, provides that a collecting official or the division of property assessments is not required to request documentation verifying the income of an elderly person seeking tax relief if the applicant is at least 80 years old and meets certain other requirements. - Amends TCA Title 67, Chapter 5, Part 7.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 1326"
+      "identifier": "ocd-bill-tn-114-hb1380"
     }
   ],
   "actions": [
@@ -167,6 +167,196 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Placed on cal. State & Local Government Committee for 2/4/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on cal. State & Local Government Committee for 2/11/2026",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Action def. in  State & Local Government Committee to 2/11/2026",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Def. to Special Calendar  to be Published with Final Calendar in  State & Local Government Committee",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on cal. State & Local Government Committee for 3/31/2026",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on cal. State & Local Government Committee for 4/8/2026",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Action def. in  State & Local Government Committee to 4/8/2026",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on cal. State & Local Government Committee for 4/13/2026",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Action def. in  State & Local Government Committee to the Next Calendar",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Calendar & Rules Committee",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "H. Placed on Regular Calendar for 4/16/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Calendar & Rules Committee for 4/14/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Comp. SB subst.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 1063",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,7 +381,18 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1380.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB1380.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA1144",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA1144.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -202,7 +403,18 @@
       "note": "Amendment SA0306",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0306.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0306.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0511",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0511.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -215,7 +427,18 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1326.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1326.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA1144 (16907)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM3097.pdf",
           "media_type": ""
         }
       ],
@@ -226,7 +449,18 @@
       "note": "Fiscal Memo for SA0306 (6269)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1062.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1062.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0511 (13460)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1631.pdf",
           "media_type": ""
         }
       ],
@@ -249,6 +483,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:57Z"
   }
 }

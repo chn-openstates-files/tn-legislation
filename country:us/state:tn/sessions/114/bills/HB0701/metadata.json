@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0983"
+      "identifier": "ocd-bill-tn-114-hb701"
     }
   ],
   "actions": [
@@ -51,15 +51,27 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:44Z"
       }
+    },
+    {
+      "description": "Sponsor change.",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Burkhart",
+      "name": "Marsh",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Burkhart\"}",
+      "person_id": "~{\"name\": \"Marsh\"}",
       "organization_id": null
     }
   ],
@@ -75,7 +87,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0701.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0701.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -88,7 +100,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0701.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0701.pdf",
           "media_type": ""
         }
       ],
@@ -99,7 +111,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0701&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0701&ga=114",
       "note": ""
     }
   ],
@@ -111,6 +123,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:44Z"
+    "logs_latest_update": "2026-07-02T13:42:57Z"
   }
 }

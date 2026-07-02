@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-tn-114-hjr133"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -48,6 +52,46 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:49Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Public Service Subcommittee for 3/18/2026",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Public Service Subcommittee for 3/25/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Action Def. in s/c Public Service Subcommittee to 3/25/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Failed for lack of second in: Public Service Subcommittee",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,7 +110,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HJR0133.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HJR0133.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -79,7 +123,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HJR0133.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HJR0133.pdf",
           "media_type": ""
         }
       ],
@@ -90,7 +134,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HJR0133&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0133&ga=114",
       "note": ""
     }
   ],
@@ -102,6 +146,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:49Z"
+    "logs_latest_update": "2026-07-02T13:42:59Z"
   }
 }

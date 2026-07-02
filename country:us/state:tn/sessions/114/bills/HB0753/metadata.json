@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 0753",
-  "title": "Taxes, Real Property - As introduced, establishes the process for property tax assessment and valuation of multi-unit rental housing that receives a federal, state, or local incentive based on low-income renter restrictions. - Amends TCA Title 7; Title 13; Title 48; Title 49; Title 67 and Title 68.",
+  "title": "Taxes, Real Property - As enacted, establishes the process for property tax assessment and valuation of multi-unit rental housing that receives a federal, state, or local incentive based on low-income renter restrictions. - Amends TCA Title 7; Title 13; Title 48; Title 49; Title 67 and Title 68.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0539"
+      "identifier": "ocd-bill-tn-114-hb753"
     }
   ],
   "actions": [
@@ -77,6 +77,200 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:49Z"
       }
+    },
+    {
+      "description": "Action def. in  Finance, Ways, and Means Committee to Next Calendar",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Finance, Ways, and Means Committee for 4/15/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Rec. for pass by s/c ref. to Finance, Ways, and Means Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Assigned to s/c Finance, Ways, and Means Subcommittee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Finance, Ways, and Means Subcommittee for 4/15/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Rec. for pass; ref to  Finance, Ways, and Means Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Government Operations Committee for 4/15/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Government Operations Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on cal. State & Local Government Committee for 4/15/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Rec for pass if am by s/c ref. to State & Local Government Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Cities & Counties Subcommittee for 4/15/2026",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Finance, Ways, and Means Committee for 4/20/2026",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "H. Placed on Regular Calendar for 4/21/2026",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Calendar & Rules Committee for 4/20/2026",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Rec. for pass; ref to  Calendar & Rules Committee",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Comp. SB subst.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 1053",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,7 +295,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0753.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0753.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA1162",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA1162.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0869",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0869.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -114,7 +330,29 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0539.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0539.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA1162 (18145)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM3320.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0869 (16431)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2966.pdf",
           "media_type": ""
         }
       ],
@@ -125,7 +363,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0753&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0753&ga=114",
       "note": ""
     }
   ],
@@ -137,6 +375,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:49Z"
+    "logs_latest_update": "2026-07-02T13:42:56Z"
   }
 }

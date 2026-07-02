@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 0545",
-  "title": "Education, Dept. of - As introduced, requires the department to provide at least one professional development course that provides asynchronous instruction on the use of artificial intelligence in the classroom and that is made available, at no cost, to teachers in grades 6-12; requires such teachers to complete at least one department-approved professional development course on the use of artificial intelligence in the classroom by August 1, 2027, or within two years of becoming licensed as a teacher in this state, whichever is later. - Amends TCA Title 49.",
+  "title": "Education, Dept. of - As enacted, requires the department to provide at least one professional development course that provides asynchronous instruction on the use of artificial intelligence in the classroom and that is made available, at no cost, to teachers in grades 6-12; requires such teachers to complete at least one department-approved professional development course on the use of artificial intelligence in the classroom by the later of August 1, 2028, or within two years of becoming licensed as a teacher in this state. - Amends TCA Title 49.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0677"
+      "identifier": "ocd-bill-tn-114-hb545"
     }
   ],
   "actions": [
@@ -211,6 +211,102 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:43Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Finance, Ways, and Means Subcommittee for 4/1/2026",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Finance, Ways, and Means Committee for 4/7/2026",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Rec for pass if am by s/c ref. to Finance, Ways, and Means Committee",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Calendar & Rules Committee",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "H. Placed on Regular Calendar for 4/16/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Calendar & Rules Committee for 4/14/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Comp. SB subst.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 1056",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -235,7 +331,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0545.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0545.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA1067",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA1067.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0837",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0837.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -248,7 +366,18 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0545.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0545.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA1067 (15626)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM2605.pdf",
           "media_type": ""
         }
       ],
@@ -259,7 +388,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0545&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0545&ga=114",
       "note": ""
     }
   ],
@@ -271,6 +400,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:43Z"
+    "logs_latest_update": "2026-07-02T13:42:56Z"
   }
 }

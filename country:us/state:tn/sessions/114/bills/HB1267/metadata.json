@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 1258"
+      "identifier": "ocd-bill-tn-114-hb1267"
     }
   ],
   "actions": [
@@ -94,6 +94,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:48Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Elections & Campaign Finance Subcommittee for 3/17/2026",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Failed in s/c  Elections & Campaign Finance Subcommittee of State & Local Government Committee",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -118,7 +138,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1267.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB1267.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -129,7 +149,7 @@
       "note": "Amendment SA0311",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0311.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0311.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -142,7 +162,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1258.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1258.pdf",
           "media_type": ""
         }
       ],
@@ -153,7 +173,7 @@
       "note": "Fiscal Memo for SA0311 (5311)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0766.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0766.pdf",
           "media_type": ""
         }
       ],
@@ -164,7 +184,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1267&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1267&ga=114",
       "note": ""
     }
   ],
@@ -176,6 +196,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:48Z"
+    "logs_latest_update": "2026-07-02T13:42:57Z"
   }
 }

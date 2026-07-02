@@ -1,20 +1,20 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0990",
-  "title": "Labor and Workforce Development, Dept. of - As introduced, requires the office of employment verification assistance to, using existing resources, create and publish a report on the number of employers that the office has enrolled in E-Verify or conducted work authorization status checks on behalf of. - Amends TCA Title 4; Title 8 and Title 50.",
+  "title": "Employees, Employers - As enacted, defines for purposes of the Tennessee Lawful Employment Act, a \"private employer\" as any person who is required by federal law and regulations to report remuneration paid to at least one employee; makes related changes. - Amends TCA Title 4; Title 8 and Title 50.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "Dept. of",
-    "Labor and Workforce Development"
+    "Employees",
+    "Employers"
   ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1194"
+      "identifier": "ocd-bill-tn-114-sb990"
     }
   ],
   "actions": [
@@ -85,6 +85,70 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:52Z"
       }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 3/3/2026",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 6, Nays 2 PNV 1",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 3/12/2026",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 622",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -109,7 +173,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0990.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0990.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0590",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0590.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0565",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0565.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -122,7 +208,18 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0990.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0990.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0590 (8584)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1415.pdf",
           "media_type": ""
         }
       ],
@@ -133,7 +230,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0990&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0990&ga=114",
       "note": ""
     }
   ],
@@ -145,6 +242,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:52Z"
+    "logs_latest_update": "2026-07-02T13:43:00Z"
   }
 }

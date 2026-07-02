@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 0022",
-  "title": "Open Meetings - As introduced, requires a governing body subject to the open meetings laws to reserve a period of public comment to provide the public with the opportunity to comment on any matter germane to the jurisdiction of the governing body, regardless of whether the matter is listed on the agenda for the meeting.  - Amends TCA Title 8, Chapter 44.",
+  "title": "Open Meetings - As enacted, requires a local governing body subject to the open meetings laws to reserve a period of public comment to provide the public with the opportunity to comment on any matter germane to the jurisdiction of the governing body, regardless of whether the matter is listed on the agenda for the meeting. - Amends TCA Title 8, Chapter 44.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0178"
+      "identifier": "ocd-bill-tn-114-hb22"
     }
   ],
   "actions": [
@@ -254,6 +254,120 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:45Z"
       }
+    },
+    {
+      "description": "Enrolled; ready for sig. of H. Speaker.",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Passed Senate, Ayes 30, Nays 3",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Amendment withdrawn. (Amendment 1 - SA0194)",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Senate substituted House Bill for companion Senate Bill.",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for his action.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 03/26/2026",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 620",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -278,7 +392,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0022.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0022.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -289,7 +403,7 @@
       "note": "Amendment HA0049",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0049.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0049.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -300,7 +414,7 @@
       "note": "Amendment SA0194",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0194.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0194.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -313,7 +427,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0022.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0022.pdf",
           "media_type": ""
         }
       ],
@@ -324,7 +438,7 @@
       "note": "Fiscal Memo for HA0049 (4529)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0333.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0333.pdf",
           "media_type": ""
         }
       ],
@@ -335,7 +449,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0022&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0022&ga=114",
       "note": ""
     }
   ],
@@ -347,6 +461,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:45Z"
+    "logs_latest_update": "2026-07-02T13:43:00Z"
   }
 }

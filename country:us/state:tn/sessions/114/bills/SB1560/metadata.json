@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1560",
-  "title": "Sunset Laws - As introduced, extends the Tennessee sports hall of fame to June 30, 2030. - Amends TCA Title 4, Chapter 29 and Title 4, Chapter 3, Part 54.",
+  "title": "Sunset Laws - As enacted, extends the Tennessee sports hall of fame to June 30, 2030. - Amends TCA Title 4, Chapter 29 and Title 4, Chapter 3, Part 54.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1617"
+      "identifier": "ocd-bill-tn-114-sb1560"
     }
   ],
   "actions": [
@@ -62,6 +62,58 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Placed on Senate Government Operations Committee calendar for 2/4/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Recommended for passage, refer to Senate Calendar Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Consent Calendar 2  for 2/9/2026",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 551",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -86,7 +138,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1560.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1560.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -99,7 +151,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1560.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1560.pdf",
           "media_type": ""
         }
       ],
@@ -122,6 +174,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:57Z"
   }
 }

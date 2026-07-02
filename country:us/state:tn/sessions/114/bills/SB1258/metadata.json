@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1267"
+      "identifier": "ocd-bill-tn-114-sb1258"
     }
   ],
   "actions": [
@@ -92,6 +92,58 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:54Z"
       }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 2/24/2026",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 3/3/2026",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate State and Local Government Committee to 3/3/2026",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Finance, Ways & Means Committee Ayes 6, Nays 1 PNV 0",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Assigned to General Subcommittee of Senate Finance, Ways & Means Committee",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -116,7 +168,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1258.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1258.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -127,7 +179,7 @@
       "note": "Amendment SA0311",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0311.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0311.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -140,7 +192,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1258.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1258.pdf",
           "media_type": ""
         }
       ],
@@ -151,7 +203,7 @@
       "note": "Fiscal Memo for SA0311 (5311)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0766.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0766.pdf",
           "media_type": ""
         }
       ],
@@ -162,7 +214,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1258&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1258&ga=114",
       "note": ""
     }
   ],
@@ -174,6 +226,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:54Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

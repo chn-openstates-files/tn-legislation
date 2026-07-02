@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0218",
-  "title": "Bail, Bail Bonds - As introduced, establishes a presumption that a defendant should not be released on the defendant\u2019s personal recognizance if the defendant is charged with an offense that involved the use or display of a firearm or resulted in the serious bodily injury or death of the victim; requires a magistrate who determines that the presumption has been rebutted to include in the bail order written findings for each factor considered in making such a determination. - Amends TCA Title 40.",
+  "title": "Bail, Bail Bonds - As enacted, establishes a presumption that a defendant should not be released on the defendant\u2019s personal recognizance if the defendant is charged with a felony offense that involved the use or display of a firearm or resulted in the serious bodily injury or death of the victim; requires a magistrate who determines that the presumption has been rebutted to include in the bail order written findings for each factor considered in making such a determination. - Amends TCA Title 40.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0033"
+      "identifier": "ocd-bill-tn-114-sb218"
     }
   ],
   "actions": [
@@ -129,6 +129,180 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:51Z"
       }
+    },
+    {
+      "description": "Passed H., as am., Ayes 65, Nays 25, PNV 0",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Am. withdrawn. (Amendment 1 - HA0523)",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "H. adopted am. (Amendment 3 - HA0585)",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "H. adopted am. (Amendment 2 - HA0524)",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Subst. for comp. HB.",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Message Calendar  for 3/12/2026",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Concurred, Ayes 26, Nays 6 (Amendment 3 - HA0585)",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Concurred, Ayes 26, Nays 6 (Amendment 2 - HA0524)",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Enrolled and ready for signatures",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Transmitted to Governor for action.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Signed by H. Speaker",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Signed by Senate Speaker",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Effective date(s) 07/01/2026",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Pub. Ch. 604",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -153,7 +327,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0218.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0218.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -164,7 +338,7 @@
       "note": "Amendment HA0523",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0523.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0523.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -175,7 +349,18 @@
       "note": "Amendment HA0524",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0524.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0524.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0585",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0585.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -188,7 +373,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0033.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0033.pdf",
           "media_type": ""
         }
       ],
@@ -199,7 +384,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0218&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0218&ga=114",
       "note": ""
     }
   ],
@@ -211,6 +396,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:51Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

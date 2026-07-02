@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0638"
+      "identifier": "ocd-bill-tn-114-sb1389"
     }
   ],
   "actions": [
@@ -246,6 +246,112 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:46Z"
       }
+    },
+    {
+      "description": "Placed on Senate Message Calendar  for 4/20/2026",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Senate refused to concur in amendment",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Conference Committee report adopted, Ayes 27, Nays 5",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Conf. comm. appointed. (Reps. Carringer, Bulso, Reneau, Hulsey, Terry, B. Martin, Clemmons)",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Conference Committee appointed (Watson, Bowling, Kyle)",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Senate refused to recede from its non-concurrence.",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Conf. comm. appointed. (Rep. Carringer, Bulso, Renuea, Hulsey, Terry, B. Martin, Clemmons)",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "H. refused to recede from am. no. 1",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -270,7 +376,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1389.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1389.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -281,7 +387,7 @@
       "note": "Amendment SA0238",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0238.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0238.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -292,7 +398,7 @@
       "note": "Amendment SA0239",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0239.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0239.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -303,7 +409,7 @@
       "note": "Amendment HA0247",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0247.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0247.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -316,7 +422,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0638.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0638.pdf",
           "media_type": ""
         }
       ],
@@ -327,11 +433,7 @@
       "note": "Fiscal Memo for SA0238 (6046)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0979.pdf",
-          "media_type": ""
-        },
-        {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1058.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1058.pdf",
           "media_type": ""
         }
       ],
@@ -342,7 +444,7 @@
       "note": "Fiscal Memo for SA0239 (3566)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0631.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0631.pdf",
           "media_type": ""
         }
       ],
@@ -353,7 +455,7 @@
       "note": "Fiscal Memo for HA0247 (6996)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1255.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1255.pdf",
           "media_type": ""
         }
       ],
@@ -364,7 +466,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1389&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1389&ga=114",
       "note": ""
     }
   ],
@@ -376,6 +478,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:46Z"
+    "logs_latest_update": "2026-07-02T13:42:59Z"
   }
 }

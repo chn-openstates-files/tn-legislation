@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0527"
+      "identifier": "ocd-bill-tn-114-hb809"
     }
   ],
   "actions": [
@@ -226,6 +226,18 @@
       }
     },
     {
+      "description": "Sponsor(s) withdrawn.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
       "description": "Sponsor(s) Added.",
       "date": "2026-01-22",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -260,7 +272,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0809.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0809.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -271,7 +283,7 @@
       "note": "Amendment SA0204",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0204.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0204.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -284,7 +296,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0527.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0527.pdf",
           "media_type": ""
         }
       ],
@@ -295,7 +307,7 @@
       "note": "Fiscal Memo for SA0204 (5577)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0821.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0821.pdf",
           "media_type": ""
         }
       ],
@@ -318,6 +330,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:52Z"
   }
 }

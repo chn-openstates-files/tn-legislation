@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0291"
+      "identifier": "ocd-bill-tn-114-hb465"
     }
   ],
   "actions": [
@@ -50,6 +50,50 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:42Z"
       }
+    },
+    {
+      "description": "Assigned to s/c Criminal Justice Subcommittee",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Ref. to Judiciary Committee",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Criminal Justice Subcommittee for 3/25/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Taken off notice for cal in s/c  Criminal Justice Subcommittee of Judiciary Committee",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -74,7 +118,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0465.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0465.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -87,7 +131,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0291.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0291.pdf",
           "media_type": ""
         }
       ],
@@ -98,7 +142,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0465&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0465&ga=114",
       "note": ""
     }
   ],
@@ -110,6 +154,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:42Z"
+    "logs_latest_update": "2026-07-02T13:42:59Z"
   }
 }

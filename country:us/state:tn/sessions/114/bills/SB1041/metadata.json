@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1250"
+      "identifier": "ocd-bill-tn-114-sb1041"
     }
   ],
   "actions": [
@@ -75,15 +75,69 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:46Z"
       }
+    },
+    {
+      "description": "Sponsor change.",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Education Committee calendar for 2/25/2026",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Education Committee to 3/4/2026",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Education Committee calendar for 3/4/2026",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Assigned to General Subcommittee of Senate Education Committee",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Bowling",
+      "name": "Pody",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Bowling\"}",
+      "person_id": "~{\"name\": \"Pody\"}",
       "organization_id": null
     }
   ],
@@ -99,7 +153,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1041.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1041.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -110,7 +164,7 @@
       "note": "Amendment HA0168",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0168.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0168.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -123,7 +177,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1041.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1041.pdf",
           "media_type": ""
         }
       ],
@@ -134,7 +188,7 @@
       "note": "Fiscal Memo for HA0168 (5787)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0779.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0779.pdf",
           "media_type": ""
         }
       ],
@@ -145,7 +199,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1041&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1041&ga=114",
       "note": ""
     }
   ],
@@ -157,6 +211,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:46Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

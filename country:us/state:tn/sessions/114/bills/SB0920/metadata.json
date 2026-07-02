@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0920",
-  "title": "Sexual Offenses - As introduced, increases from $1,000 to $2,500 the amount of compensation that may be awarded from the criminal injuries compensation fund to a health care provider who performed a forensic medical examination on a victim of a sexually oriented crime; requires the Tennessee bureau of investigation to perform serology or DNA analysis on a sexual assault evidence collection kit within 120 days of the bureau's receipt of the sexual assault evidence collection kit from a law enforcement agency. - Amends TCA Title 29; Title 38 and Title 39.",
+  "title": "Sexual Offenses - As enacted, provides that when the victim of a sexually oriented crime is a minor, the consent of a parent or guardian is not required for the victim to receive a forensic medical examination. - Amends TCA Title 29; Title 38 and Title 39.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0679"
+      "identifier": "ocd-bill-tn-114-sb920"
     }
   ],
   "actions": [
@@ -188,6 +188,40 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 597",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -212,7 +246,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0920.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0920.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -223,7 +257,18 @@
       "note": "Amendment SA0348",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0348.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0348.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0484",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0484.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -234,7 +279,7 @@
       "note": "Amendment HA0272",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0272.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0272.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -247,7 +292,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0679.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0679.pdf",
           "media_type": ""
         }
       ],
@@ -258,7 +303,18 @@
       "note": "Fiscal Memo for SA0348 (5119)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0637.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0637.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0484 (13471)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1626.pdf",
           "media_type": ""
         }
       ],
@@ -281,6 +337,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:52Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1547",
-  "title": "Sunset Laws - As introduced, extends the state university and community college system, board of regents to June 30, 2030. - Amends TCA Title 4, Chapter 29 and Title 49, Chapter 8.",
+  "title": "Sunset Laws - As enacted, extends the state university and community college system, board of regents to June 30, 2030. - Amends TCA Title 4, Chapter 29 and Title 49, Chapter 8.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1604"
+      "identifier": "ocd-bill-tn-114-sb1547"
     }
   ],
   "actions": [
@@ -62,6 +62,58 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Placed on Senate Government Operations Committee calendar for 2/4/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Recommended for passage, refer to Senate Calendar Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Consent Calendar 2  for 2/9/2026",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 548",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -86,7 +138,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1547.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1547.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -99,7 +151,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1547.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1547.pdf",
           "media_type": ""
         }
       ],
@@ -122,6 +174,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:43:00Z"
   }
 }

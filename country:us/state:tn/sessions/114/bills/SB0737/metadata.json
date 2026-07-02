@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0315"
+      "identifier": "ocd-bill-tn-114-sb737"
     }
   ],
   "actions": [
@@ -52,6 +52,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:53Z"
       }
+    },
+    {
+      "description": "Action deferred in Senate Judiciary Committee to 2027",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +86,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0737.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0737.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,7 +99,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0315.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0315.pdf",
           "media_type": ""
         }
       ],
@@ -100,7 +110,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0737&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0737&ga=114",
       "note": ""
     }
   ],
@@ -112,6 +122,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:53Z"
+    "logs_latest_update": "2026-07-02T13:42:54Z"
   }
 }

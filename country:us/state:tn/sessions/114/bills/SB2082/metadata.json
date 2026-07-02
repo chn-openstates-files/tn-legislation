@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 2082",
-  "title": "Appropriations - As introduced, makes appropriations for the purpose of defraying the expenses of certain legislative enactments passed during the 2026 session of the 114th General Assembly; earmarks sufficient state funds for the purpose of funding any bill naming a highway or bridge in honor of a service member killed in action. - to make appropriations for the purpose of defraying the expenses of the state government for the fiscal years beginning July 1, 2025, and July 1, 2026.",
+  "title": "Appropriations - As introduced, makes appropriations for the purpose of defraying the expenses of certain legislative enactments passed during the 2026 session of the 114th General Assembly; earmarks sufficient state funds for the purpose of funding any bill naming a highway or bridge in honor of a service member killed in action. -",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1908"
+      "identifier": "ocd-bill-tn-114-sb2082"
     }
   ],
   "actions": [
@@ -27,6 +27,82 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Introduced, Passed on First Consideration",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Passed on Second Consideration, refer to Senate Finance, Ways, and Means Committee",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/14/2026",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/15/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Finance, Ways, and Means Committee to 4/15/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Finance, Ways and Means Committee to next calendar",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Assigned to General Subcommittee of Senate Finance, Ways and Means Committee",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
       }
     }
   ],
@@ -52,7 +128,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB2082.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB2082.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -76,6 +152,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:43:00Z"
   }
 }

@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1387"
+      "identifier": "ocd-bill-tn-114-sb401"
     }
   ],
   "actions": [
@@ -106,6 +106,26 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on Senate Health and Welfare Committee calendar for 2/4/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Failed in Senate Health and Welfare Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -130,7 +150,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0401.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0401.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -141,7 +161,7 @@
       "note": "Amendment SA0459",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0459.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0459.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -154,7 +174,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0401.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0401.pdf",
           "media_type": ""
         }
       ],
@@ -165,7 +185,7 @@
       "note": "Fiscal Memo for SA0459 (12068)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1425.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1425.pdf",
           "media_type": ""
         }
       ],
@@ -188,6 +208,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:55Z"
   }
 }

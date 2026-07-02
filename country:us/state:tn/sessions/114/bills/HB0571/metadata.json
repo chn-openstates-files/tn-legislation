@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 0571",
-  "title": "Safety - As introduced, enacts the \"Women's Safety and Protection Act.\" - Amends TCA Title 4; Title 37; Title 41; Title 49 and Title 68.",
+  "title": "Safety - As enacted, enacts the \"Riley Gaines Women's Safety and Protection Act.\" - Amends TCA Title 4; Title 37; Title 41; Title 49 and Title 68.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0468"
+      "identifier": "ocd-bill-tn-114-hb571"
     }
   ],
   "actions": [
@@ -278,6 +278,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:43Z"
       }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 1052",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -302,7 +312,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0571.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0571.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -313,7 +323,7 @@
       "note": "Amendment HA0370",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0370.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0370.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -324,7 +334,7 @@
       "note": "Amendment HA0416",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0416.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0416.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -335,7 +345,7 @@
       "note": "Amendment HA0417",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0417.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0417.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -346,7 +356,7 @@
       "note": "Amendment HA0418",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0418.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0418.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -357,7 +367,18 @@
       "note": "Amendment SA0143",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0143.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0143.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0559",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0559.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -370,7 +391,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0468.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0468.pdf",
           "media_type": ""
         }
       ],
@@ -381,7 +402,7 @@
       "note": "Fiscal Memo for HA0370 (6824)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1242.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1242.pdf",
           "media_type": ""
         }
       ],
@@ -392,7 +413,18 @@
       "note": "Fiscal Memo for SA0143 (4451)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0313.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0313.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0559 (10973)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1687.pdf",
           "media_type": ""
         }
       ],
@@ -403,7 +435,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0571&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0571&ga=114",
       "note": ""
     }
   ],
@@ -415,6 +447,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:43Z"
+    "logs_latest_update": "2026-07-02T13:42:58Z"
   }
 }

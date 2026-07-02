@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 0662",
-  "title": "Education - As introduced, changes the date, from October 31 to October 1, by which the departments of education and health must submit a report to the governor and general assembly regarding the self-administered medications and healthcare procedures for students served in all public and nonpublic accredited schools in this state and recommendations for meeting the needs for comprehensive school health. - Amends TCA Title 4; Title 5; Title 6; Title 7 and Title 49.",
+  "title": "Education - As enacted, requires an educational oversight board tobe created for an LEA that meets certain criteria and is established to annually conduct a comprehensive needs assessment of the LEA to determine the factors that may be contributing to the LEA meeting such criteria; requires the oversight board to develop a transformation plan that identifies performance andoperational goals for the LEA and benchmarks for assessing the LEA's progress toward meeting such goals; makes other related changes. - Amends TCA Title 4; Title 5; Title 6; Title 7 and Title 49.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0714"
+      "identifier": "ocd-bill-tn-114-hb662"
     }
   ],
   "actions": [
@@ -290,6 +290,28 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 1057",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -314,7 +336,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0662.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0662.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -325,7 +347,7 @@
       "note": "Amendment HA0311",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0311.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0311.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -336,7 +358,7 @@
       "note": "Amendment HA0519",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0519.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0519.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -347,7 +369,7 @@
       "note": "Amendment HA0535",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0535.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0535.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -358,7 +380,7 @@
       "note": "Amendment HA0536",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0536.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0536.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -369,7 +391,7 @@
       "note": "Amendment HA0537",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0537.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0537.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -380,7 +402,7 @@
       "note": "Amendment HA0538",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0538.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0538.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -391,7 +413,7 @@
       "note": "Amendment HA0539",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0539.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0539.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -402,7 +424,7 @@
       "note": "Amendment HA0540",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0540.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0540.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -413,7 +435,7 @@
       "note": "Amendment SA0285",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0285.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0285.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -424,7 +446,7 @@
       "note": "Amendment SA0430",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0430.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0430.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -435,7 +457,7 @@
       "note": "Amendment SA0456",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0456.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0456.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -448,7 +470,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0662.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0662.pdf",
           "media_type": ""
         }
       ],
@@ -459,7 +481,7 @@
       "note": "Fiscal Memo for HA0311 (7061)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1271.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1271.pdf",
           "media_type": ""
         }
       ],
@@ -470,7 +492,7 @@
       "note": "Fiscal Memo for HA0519 (7487)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1343.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1343.pdf",
           "media_type": ""
         }
       ],
@@ -481,7 +503,7 @@
       "note": "Fiscal Memo for SA0285 (5329)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1118.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1118.pdf",
           "media_type": ""
         }
       ],
@@ -504,6 +526,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:56Z"
   }
 }

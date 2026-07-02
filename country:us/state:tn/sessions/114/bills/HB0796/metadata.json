@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "HB 0796",
-  "title": "Utilities, Utility Districts - As introduced, requires a public utility to allow a customer of the utility to use a contractor of the customer's choosing for the installation of utility infrastructure; allows the public utility to provide reasonable construction and manufacturer specifications for the utility infrastructure; adds additional requirements related to the use of private contractors for installation of utility infrastructure. - Amends TCA Title 5; Title 6; Title 7; Title 65; Title 68 and Title 69.",
+  "title": "Utilities, Utility Districts - As enacted, clarifies that prior to the acquisition of assets of a natural gas utility regulated by the Tennessee public utility commission by a new owner or any other change in control of such assets, the commission has exclusive authority to approve the acquisition or change in control, including the assignment of franchise rights, upon a finding by the commission that such transfers of assets or control is in the public interest. - Amends TCA Title 5; Title 6; Title 7; Title 65; Title 68 and Title 69.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0717"
+      "identifier": "ocd-bill-tn-114-hb796"
     }
   ],
   "actions": [
@@ -107,6 +107,80 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on cal. Commerce Committee for 2/4/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Calendar & Rules Committee for 2/5/2026",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Calendar & Rules Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "H. Placed on Regular Calendar for 2/9/2026",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Comp. SB subst.",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 532",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -131,7 +205,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0796.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0796.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0545",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0545.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0462",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0462.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -144,7 +240,18 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0717.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0717.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0545 (10429)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1401.pdf",
           "media_type": ""
         }
       ],
@@ -167,6 +274,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:58Z"
   }
 }

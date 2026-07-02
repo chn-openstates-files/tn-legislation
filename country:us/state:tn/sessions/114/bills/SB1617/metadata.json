@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1617",
-  "title": "County Government - As introduced, requires county legislative bodies to adopt local rules of procedure within 90 days of convening a newly elected county legislative body by majority vote; requires a two-thirds vote to change such rules; specifies Robert's Rules of Order as the default rules of procedure for county legislative bodies. - Amends TCA Title 5.",
+  "title": "County Government - As enacted, requires county legislative bodies to adopt local rules of procedure within 90 days of convening a newly elected county legislative body by majority vote; requires a two-thirds vote to change such rules; specifies Robert's Rules of Order as the default rules of procedure for county legislative bodies. - Amends TCA Title 5.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1488"
+      "identifier": "ocd-bill-tn-114-sb1617"
     }
   ],
   "actions": [
@@ -52,6 +52,58 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 2/24/2026",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Consent Calendar 2  for 2/26/2026",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Recommended for passage, refer to Senate Calendar Committee",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 599",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +128,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1617.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1617.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,7 +141,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB1488.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB1488.pdf",
           "media_type": ""
         }
       ],
@@ -112,6 +164,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

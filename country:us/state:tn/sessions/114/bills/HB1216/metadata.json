@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 1190"
+      "identifier": "ocd-bill-tn-114-hb1216"
     }
   ],
   "actions": [
@@ -137,6 +137,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:46Z"
       }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -161,7 +173,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1216.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB1216.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -174,7 +186,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1190.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1190.pdf",
           "media_type": ""
         }
       ],
@@ -185,7 +197,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1216&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1216&ga=114",
       "note": ""
     }
   ],
@@ -197,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:46Z"
+    "logs_latest_update": "2026-07-02T13:42:55Z"
   }
 }

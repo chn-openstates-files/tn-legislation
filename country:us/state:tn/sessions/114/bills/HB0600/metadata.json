@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0269"
+      "identifier": "ocd-bill-tn-114-hb600"
     }
   ],
   "actions": [
@@ -136,15 +136,71 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:54Z"
       }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Agriculture & Natural Resources Subcommittee for 3/18/2026",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Sponsor change.",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Taken off notice for cal in s/c  Agriculture and Natural Resources Subcommittee of Agriculture & Natural Resources Committee",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Freeman",
+      "name": "Hale",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Freeman\"}",
+      "person_id": "~{\"name\": \"Hale\"}",
       "organization_id": null
     }
   ],
@@ -160,7 +216,18 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0600.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0600.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0643",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0643.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -173,7 +240,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0269.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0269.pdf",
           "media_type": ""
         }
       ],
@@ -184,7 +251,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0600&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0600&ga=114",
       "note": ""
     }
   ],
@@ -196,6 +263,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:54Z"
+    "logs_latest_update": "2026-07-02T13:42:52Z"
   }
 }

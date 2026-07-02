@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1687",
-  "title": "Comptroller, State - As introduced, deletes the reports the comptroller is required to submit to the general assembly regarding the provision of broadband services in historically unserved areas and the Tennessee Helping Heroes Scholarship Program; revises the information the comptroller is required to submit to the general assembly regarding the property tax relief program. - Amends TCA Section 7-59-316; Section 49-4-938 and Section 67-5-701.",
+  "title": "Comptroller, State - As enacted, deletes the reports the comptroller is required to submit to the general assembly regarding the provision of broadband services in historically unserved areas and the Tennessee Helping Heroes Scholarship Program; revises the information the comptroller is required to submit to the general assembly regarding the property tax relief program. - Amends TCA Section 7-59-316; Section 49-4-938 and Section 67-5-701.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1799"
+      "identifier": "ocd-bill-tn-114-sb1687"
     }
   ],
   "actions": [
@@ -43,15 +43,87 @@
       }
     },
     {
-      "description": "Passed on Second Consideration, Held on desk.",
+      "description": "Passed on Second Consideration, refer to Senate State & Local Goverment Committee",
       "date": "2026-01-21",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-27T12:33:13Z"
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 3/3/2026",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on Senate State and Local Government Committee calendar for 3/10/2026",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate State and Local Government Committee to 3/10/2026",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Recommended for passage, refer to Senate Calendar Committee",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Consent Calendar 2  for 3/16/2026",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 750",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
       }
     }
   ],
@@ -77,7 +149,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1687.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1687.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -90,7 +162,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1687.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1687.pdf",
           "media_type": ""
         }
       ],
@@ -113,6 +185,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:56Z"
   }
 }

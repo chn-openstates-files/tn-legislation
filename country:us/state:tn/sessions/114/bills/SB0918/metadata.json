@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 0918",
-  "title": "Boats, Boating - As introduced, increases from 12 to 16, the minimum age for operating a personal watercraft without direct adult supervision; requires persons operating personal watercraft to maintain financial responsibility in the same amounts applicable to motor vehicles. - Amends TCA Title 69, Chapter 9.",
+  "title": "Boats, Boating - As enacted, generally increases from 12 to 14, the age that a person must be to lawfully operate a personal watercraft upon the waters of Tennessee without being under the direct supervision of an adult, except that persons 12 and 13 may continue to operate a personal watercraft upon the waters of Tennessee without being under the direct supervision of an adult on Monday through Friday, excepting legal holidays.  - Amends TCA Title 69, Chapter 9.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0940"
+      "identifier": "ocd-bill-tn-114-sb918"
     }
   ],
   "actions": [
@@ -193,15 +193,155 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 2/3/2026",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 2/10/2026",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 2/10/2026",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Finance, Ways, and Means Committee to 2/10/2026",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Sponsor change.",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 2/12/2026",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 2/12/2026",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 7, Nays 4 PNV 0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 584",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Campbell",
+      "name": "Yarbro",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Campbell\"}",
+      "person_id": "~{\"name\": \"Yarbro\"}",
       "organization_id": null
     }
   ],
@@ -217,7 +357,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0918.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0918.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -228,7 +368,7 @@
       "note": "Amendment SA0247",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0247.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0247.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -239,7 +379,18 @@
       "note": "Amendment SA0440",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0440.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0440.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SA0470",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0470.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -250,7 +401,7 @@
       "note": "Amendment HA0217",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0217.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0217.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -261,7 +412,7 @@
       "note": "Amendment HA0518",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0518.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0518.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -274,7 +425,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0940.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0940.pdf",
           "media_type": ""
         }
       ],
@@ -285,7 +436,7 @@
       "note": "Fiscal Memo for SA0247 (5297)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0663.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0663.pdf",
           "media_type": ""
         }
       ],
@@ -296,7 +447,7 @@
       "note": "Fiscal Memo for SA0440 (7831)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1368.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1512.pdf",
           "media_type": ""
         }
       ],
@@ -307,7 +458,7 @@
       "note": "Fiscal Memo for HA0217 (6790)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1184.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1184.pdf",
           "media_type": ""
         }
       ],
@@ -330,6 +481,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:54Z"
   }
 }

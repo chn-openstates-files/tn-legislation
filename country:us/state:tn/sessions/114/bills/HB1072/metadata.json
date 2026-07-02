@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0825"
+      "identifier": "ocd-bill-tn-114-hb1072"
     }
   ],
   "actions": [
@@ -136,6 +136,26 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Agriculture & Natural Resources Subcommittee for 2/4/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
+    },
+    {
+      "description": "Failed in s/c  Agriculture and Natural Resources Subcommittee of  Agriculture & Natural Resources Committee",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -160,7 +180,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1072.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB1072.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -173,7 +193,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0825.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0825.pdf",
           "media_type": ""
         }
       ],
@@ -196,6 +216,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:55Z"
   }
 }

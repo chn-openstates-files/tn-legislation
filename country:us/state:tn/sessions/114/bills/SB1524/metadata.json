@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1524",
-  "title": "Sunset Laws - As introduced, extends the Interstate Compact for Juveniles to June 30, 2034. - Amends TCA Title 4, Chapter 29 and Title 37, Chapter 4, Part 1.",
+  "title": "Sunset Laws - As enacted, extends the Interstate Compact for Juveniles to June 30, 2034. - Amends TCA Title 4, Chapter 29 and Title 37, Chapter 4, Part 1.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1582"
+      "identifier": "ocd-bill-tn-114-sb1524"
     }
   ],
   "actions": [
@@ -52,6 +52,58 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:13Z"
       }
+    },
+    {
+      "description": "Placed on Senate Government Operations Committee calendar for 3/25/2026",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Recommended for passage, refer to Senate Calendar Committee",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Consent Calendar 2  for 3/30/2026",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Companion House Bill substituted",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Comp. became Pub. Ch. 745",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -76,7 +128,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1524.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1524.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,7 +141,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1524.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1524.pdf",
           "media_type": ""
         }
       ],
@@ -112,6 +164,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:13Z"
+    "logs_latest_update": "2026-07-02T13:42:57Z"
   }
 }

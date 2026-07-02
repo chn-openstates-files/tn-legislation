@@ -14,7 +14,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0704"
+      "identifier": "ocd-bill-tn-114-sb719"
     }
   ],
   "actions": [
@@ -115,6 +115,36 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:44Z"
       }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/21/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/20/2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/21/2026",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -139,7 +169,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0719.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB0719.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -150,7 +180,7 @@
       "note": "Amendment SA0128",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0128.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0128.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -163,7 +193,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0719.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0719.pdf",
           "media_type": ""
         }
       ],
@@ -174,7 +204,7 @@
       "note": "Fiscal Memo for SA0128 (3499)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0401.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0401.pdf",
           "media_type": ""
         }
       ],
@@ -185,7 +215,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0719&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0719&ga=114",
       "note": ""
     }
   ],
@@ -197,6 +227,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:44Z"
+    "logs_latest_update": "2026-07-02T13:42:53Z"
   }
 }

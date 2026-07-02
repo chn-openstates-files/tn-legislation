@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1974",
-  "title": "State Employees - As introduced, entitles a state employee to up to 48 hours of annual paid or unpaid leave to attend school-related activities of a dependent child.  - Amends TCA Title 8, Chapter 50.",
+  "title": "State Employees - As introduced, enacts the \"Parental Right to Participate in Schools Act,\" which entitles a state employee to up to 48 hours of annual paid or unpaid leave to attend school-related activities of a dependent child.  - Amends TCA Title 8, Chapter 50.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1919"
+      "identifier": "ocd-bill-tn-114-sb1974"
     }
   ],
   "actions": [
@@ -27,6 +27,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Introduced, Passed on First Consideration",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
+      }
+    },
+    {
+      "description": "Passed on Second Consideration, refer to Senate State and Local Government Committee",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:59Z"
       }
     }
   ],
@@ -52,7 +76,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1974.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1974.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -60,7 +84,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB1974.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -76,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:59Z"
   }
 }

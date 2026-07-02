@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 1236"
+      "identifier": "ocd-bill-tn-114-hb1148"
     }
   ],
   "actions": [
@@ -266,6 +266,46 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:53Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Finance, Ways, and Means Subcommittee for 3/18/2026",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Action Def. in s/c  Finance, Ways, and Means Subcommittee to Final Calendar No. 2",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Placed on s/c cal Finance, Ways, and Means Subcommittee for 4/14/2026",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
+    },
+    {
+      "description": "Taken off notice for cal in s/c Finance, Ways and Means Subcommittee of Finance, Ways and Means Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -290,7 +330,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1148.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB1148.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -301,7 +341,7 @@
       "note": "Amendment HA0074",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0074.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0074.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -312,7 +352,7 @@
       "note": "Amendment SA0096",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0096.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0096.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -325,7 +365,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB1148.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB1148.pdf",
           "media_type": ""
         }
       ],
@@ -336,11 +376,7 @@
       "note": "Fiscal Memo for HA0074 (3567)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0109.pdf",
-          "media_type": ""
-        },
-        {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0626.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0626.pdf",
           "media_type": ""
         }
       ],
@@ -351,7 +387,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1148&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1148&ga=114",
       "note": ""
     }
   ],
@@ -363,6 +399,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:53Z"
+    "logs_latest_update": "2026-07-02T13:42:52Z"
   }
 }

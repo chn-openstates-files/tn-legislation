@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0477"
+      "identifier": "ocd-bill-tn-114-hb592"
     }
   ],
   "actions": [
@@ -262,6 +262,46 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:48Z"
       }
+    },
+    {
+      "description": "Placed on cal. Finance, Ways, and Means Committee for 4/7/2026",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Action def. in  Finance, Ways, and Means Committee to 4/14/2026",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Finance, Ways, and Means Committee for 4/14/2026",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
+    },
+    {
+      "description": "Taken off notice for cal. in Finance, Ways and Means Committee",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:43:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -286,7 +326,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0592.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0592.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -299,7 +339,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0477.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0477.pdf",
           "media_type": ""
         }
       ],
@@ -310,7 +350,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0592&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0592&ga=114",
       "note": ""
     }
   ],
@@ -322,6 +362,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:48Z"
+    "logs_latest_update": "2026-07-02T13:43:00Z"
   }
 }

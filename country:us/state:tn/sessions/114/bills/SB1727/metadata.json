@@ -1,7 +1,7 @@
 {
   "legislative_session": "114",
   "identifier": "SB 1727",
-  "title": "TennCare - As introduced, deletes an obsolete provision that required the comptroller of the treasury, in conjunction with any appropriate TennCare drug utilization review committees, to study the use of prescription drugs in nursing homes and the costs of those prescription drugs for residents of nursing homes; to examine prescription use overall; to focus on any practices that would improve the quality of resident care while reducing costs to the TennCare program; and to report by January 1, 2005, to speaker of the senate and the speaker of the house of representatives. - Amends TCA Title 4; Title 56 and Title 71.",
+  "title": "TennCare - As introduced, deletes an obsolete provision that required the comptroller of the treasury, in conjunction with any appropriate TennCare drug utilization review committees, to study the use of prescription drugs in nursing homes and the costs of those prescription drugs for residents of nursing homes; to examine prescription use overall; to focus on any practices that would improve the quality of resident care while reducing costs to the TennCare program; and to report by January 1, 2005, to the speaker of the senate and the speaker of the house of representatives. - Amends TCA Title 4; Title 56 and Title 71.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 1548"
+      "identifier": "ocd-bill-tn-114-sb1727"
     }
   ],
   "actions": [
@@ -40,6 +40,18 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Passed on Second Consideration, refer to Senate Commerce and Labor Committee",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,7 +76,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1727.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1727.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -77,7 +89,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB1548.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB1548.pdf",
           "media_type": ""
         }
       ],
@@ -100,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:54Z"
   }
 }

@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "HB 0949"
+      "identifier": "ocd-bill-tn-114-sb1183"
     }
   ],
   "actions": [
@@ -126,6 +126,28 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:45Z"
       }
+    },
+    {
+      "description": "Rule #83(8) Suspended, to be heard in Senate Judiciary on 3/23/2026",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
+    },
+    {
+      "description": "Assigned to General Subcommittee of Senate Judiciary Committee",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -150,7 +172,7 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1183.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/SB1183.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -163,7 +185,7 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB0949.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB0949.pdf",
           "media_type": ""
         }
       ],
@@ -174,7 +196,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1183&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1183&ga=114",
       "note": ""
     }
   ],
@@ -186,6 +208,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:45Z"
+    "logs_latest_update": "2026-07-02T13:42:56Z"
   }
 }

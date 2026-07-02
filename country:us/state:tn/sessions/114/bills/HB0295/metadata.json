@@ -13,7 +13,7 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "SB 0044"
+      "identifier": "ocd-bill-tn-114-hb295"
     }
   ],
   "actions": [
@@ -222,6 +222,72 @@
       "_processing": {
         "log_file_created": "2026-01-27T12:33:12Z"
       }
+    },
+    {
+      "description": "Placed on cal. Insurance Committee for 2/3/2026",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Action def. in  Insurance Committee to 2/10/2026",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Placed on cal. Insurance Committee for 2/10/2026",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Rec. for pass. if am., ref. to  Health Committee",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-02T13:42:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -246,7 +312,29 @@
       "note": "Current Version",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0295.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Bill/HB0295.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0549",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0549.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HA0550",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Amend/HA0550.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -257,7 +345,7 @@
       "note": "Amendment SA0003",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0003.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0003.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -268,7 +356,7 @@
       "note": "Amendment SA0081",
       "links": [
         {
-          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0081.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Amend/SA0081.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -281,7 +369,29 @@
       "note": "Fiscal Note",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB0044.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/SB0044.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0549 (4668)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0520.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0550 (12864)",
+      "links": [
+        {
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM1506.pdf",
           "media_type": ""
         }
       ],
@@ -292,18 +402,7 @@
       "note": "Fiscal Memo for SA0003 (3719)",
       "links": [
         {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0390.pdf",
-          "media_type": ""
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Fiscal Memo for SA0081 (4668)",
-      "links": [
-        {
-          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0520.pdf",
+          "url": "https://capitol.tn.gov/Bills/114/Fiscal/FM0390.pdf",
           "media_type": ""
         }
       ],
@@ -326,6 +425,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-27T12:33:12Z"
+    "logs_latest_update": "2026-07-02T13:42:57Z"
   }
 }
